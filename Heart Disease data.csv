@@ -1,0 +1,1026 @@
+age,sex,chest_pain,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,Heart_disease
+52,Female,ATA,125,212,Diabetes,Abnormal,168,No,1,Down,2,reversable defect,No Disease
+53,Female,ATA,140,203,Normal,Normal,155,Yes,3.1,Up,0,reversable defect,No Disease
+70,Female,ATA,145,174,Diabetes,Abnormal,125,Yes,2.6,Up,0,reversable defect,No Disease
+61,Female,ATA,148,203,Diabetes,Abnormal,161,No,0,Down,1,reversable defect,No Disease
+62,Male,ATA,138,294,Normal,Abnormal,106,No,1.9,Flat,3,Noraml blood flow,No Disease
+58,Male,ATA,100,248,Diabetes,Normal,122,No,1,Flat,0,Noraml blood flow,Disease
+58,Female,ATA,114,318,Diabetes,Hyper,140,No,4.4,Up,3,Fixed defect,No Disease
+55,Female,ATA,160,289,Diabetes,Normal,145,Yes,0.8,Flat,1,reversable defect,No Disease
+46,Female,ATA,120,249,Diabetes,Normal,144,No,0.8,Down,0,reversable defect,No Disease
+54,Female,ATA,122,286,Diabetes,Normal,116,Yes,3.2,Flat,2,Noraml blood flow,No Disease
+71,Male,ATA,112,149,Diabetes,Abnormal,125,No,1.6,Flat,0,Noraml blood flow,Disease
+43,Male,ATA,132,341,Normal,Normal,136,Yes,3,Flat,0,reversable defect,No Disease
+34,Male,NAP,118,210,Diabetes,Abnormal,192,No,0.7,Down,0,Noraml blood flow,Disease
+51,Female,ATA,140,298,Diabetes,Abnormal,122,Yes,4.2,Flat,3,reversable defect,No Disease
+52,Female,ATA,128,204,Normal,Abnormal,156,Yes,1,Flat,0,Null,No Disease
+34,Male,NAP,118,210,Diabetes,Abnormal,192,No,0.7,Down,0,Noraml blood flow,Disease
+51,Male,ASY,140,308,Diabetes,Normal,142,No,1.5,Down,1,Noraml blood flow,Disease
+54,Female,ATA,124,266,Diabetes,Normal,109,Yes,2.2,Flat,1,reversable defect,No Disease
+50,Male,NAP,120,244,Diabetes,Abnormal,162,No,1.1,Down,0,Noraml blood flow,Disease
+58,Female,ASY,140,211,Normal,Normal,165,No,0,Down,0,Noraml blood flow,Disease
+60,Female,ASY,140,185,Diabetes,Normal,155,No,3,Flat,0,Noraml blood flow,No Disease
+67,Male,ATA,106,223,Diabetes,Abnormal,142,No,0.3,Down,2,Noraml blood flow,Disease
+45,Female,ATA,104,208,Diabetes,Normal,148,Yes,3,Flat,0,Noraml blood flow,Disease
+63,Male,ASY,135,252,Diabetes,Normal,172,No,0,Down,0,Noraml blood flow,Disease
+42,Male,ASY,120,209,Diabetes,Abnormal,173,No,0,Flat,0,Noraml blood flow,Disease
+61,Male,ATA,145,307,Diabetes,Normal,146,Yes,1,Flat,0,reversable defect,No Disease
+44,Female,ASY,130,233,Diabetes,Abnormal,179,Yes,0.4,Down,0,Noraml blood flow,Disease
+58,Male,NAP,136,319,Normal,Normal,152,No,0,Down,2,Noraml blood flow,No Disease
+56,Female,ASY,130,256,Normal,Normal,142,Yes,0.6,Flat,1,Fixed defect,No Disease
+55,Male,ATA,180,327,Diabetes,Hyper,117,Yes,3.4,Flat,0,Noraml blood flow,No Disease
+44,Female,ATA,120,169,Diabetes,Abnormal,144,Yes,2.8,Up,0,Fixed defect,No Disease
+50,Male,NAP,120,244,Diabetes,Abnormal,162,No,1.1,Down,0,Noraml blood flow,Disease
+57,Female,ATA,130,131,Diabetes,Abnormal,115,Yes,1.2,Flat,1,reversable defect,No Disease
+70,Female,ASY,160,269,Diabetes,Abnormal,112,Yes,2.9,Flat,1,reversable defect,No Disease
+50,Female,ASY,129,196,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+46,Female,ASY,150,231,Diabetes,Abnormal,147,No,3.6,Flat,0,Noraml blood flow,No Disease
+51,Female,TA,125,213,Diabetes,Normal,125,Yes,1.4,Down,1,Noraml blood flow,Disease
+59,Female,ATA,138,271,Diabetes,Normal,182,No,0,Down,0,Noraml blood flow,Disease
+64,Female,ATA,128,263,Diabetes,Abnormal,105,Yes,0.2,Flat,1,reversable defect,Disease
+57,Female,ASY,128,229,Diabetes,Normal,150,No,0.4,Flat,1,reversable defect,No Disease
+65,Male,ASY,160,360,Diabetes,Normal,151,No,0.8,Down,0,Noraml blood flow,Disease
+54,Female,ASY,120,258,Diabetes,Normal,147,No,0.4,Flat,0,reversable defect,Disease
+61,Male,ATA,130,330,Diabetes,Normal,169,No,0,Down,0,Noraml blood flow,No Disease
+46,Female,ATA,120,249,Diabetes,Normal,144,No,0.8,Down,0,reversable defect,No Disease
+55,Male,NAP,132,342,Diabetes,Abnormal,166,No,1.2,Down,0,Noraml blood flow,Disease
+42,Female,ATA,140,226,Diabetes,Abnormal,178,No,0,Down,0,Noraml blood flow,Disease
+41,Female,NAP,135,203,Diabetes,Abnormal,132,No,0,Flat,0,Fixed defect,Disease
+66,Male,ATA,178,228,Normal,Abnormal,165,Yes,1,Flat,2,reversable defect,No Disease
+66,Male,ASY,146,278,Diabetes,Normal,152,No,0,Flat,1,Noraml blood flow,Disease
+60,Female,ATA,117,230,Normal,Abnormal,160,Yes,1.4,Down,2,reversable defect,No Disease
+58,Male,TA,150,283,Normal,Normal,162,No,1,Down,0,Noraml blood flow,Disease
+57,Male,ATA,140,241,Diabetes,Abnormal,123,Yes,0.2,Flat,0,reversable defect,No Disease
+38,Female,ASY,138,175,Diabetes,Abnormal,173,No,0,Down,4,Noraml blood flow,Disease
+49,Female,ASY,120,188,Diabetes,Abnormal,139,No,2,Flat,3,reversable defect,No Disease
+55,Female,ATA,140,217,Diabetes,Abnormal,111,Yes,5.6,Up,0,reversable defect,No Disease
+55,Female,ATA,140,217,Diabetes,Abnormal,111,Yes,5.6,Up,0,reversable defect,No Disease
+56,Female,TA,120,193,Diabetes,Normal,162,No,1.9,Flat,0,reversable defect,Disease
+48,Female,NAP,130,245,Diabetes,Normal,180,No,0.2,Flat,0,Noraml blood flow,Disease
+67,Female,ASY,152,212,Diabetes,Normal,150,No,0.8,Flat,0,reversable defect,No Disease
+57,Female,NAP,154,232,Diabetes,Normal,164,No,0,Down,1,Noraml blood flow,No Disease
+29,Female,NAP,130,204,Diabetes,Normal,202,No,0,Down,0,Noraml blood flow,Disease
+66,Male,ASY,146,278,Diabetes,Normal,152,No,0,Flat,1,Noraml blood flow,Disease
+67,Female,ATA,100,299,Diabetes,Normal,125,Yes,0.9,Flat,2,Noraml blood flow,No Disease
+59,Female,ASY,150,212,Normal,Abnormal,157,No,1.6,Down,0,Noraml blood flow,Disease
+29,Female,NAP,130,204,Diabetes,Normal,202,No,0,Down,0,Noraml blood flow,Disease
+59,Female,TA,170,288,Diabetes,Normal,159,No,0.2,Flat,0,reversable defect,No Disease
+53,Female,ASY,130,197,Normal,Normal,152,No,1.2,Up,0,Noraml blood flow,Disease
+42,Female,ATA,136,315,Diabetes,Abnormal,125,Yes,1.8,Flat,0,Fixed defect,No Disease
+37,Male,ASY,120,215,Diabetes,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+62,Male,ATA,160,164,Diabetes,Normal,145,No,6.2,Up,3,reversable defect,No Disease
+59,Female,ATA,170,326,Diabetes,Normal,140,Yes,3.4,Up,0,reversable defect,No Disease
+61,Female,ATA,140,207,Diabetes,Normal,138,Yes,1.9,Down,1,reversable defect,No Disease
+56,Female,ATA,125,249,Normal,Normal,144,Yes,1.2,Flat,1,Noraml blood flow,No Disease
+59,Female,ATA,140,177,Diabetes,Abnormal,162,Yes,0,Down,1,reversable defect,No Disease
+48,Female,ATA,130,256,Normal,Normal,150,Yes,0,Down,2,reversable defect,No Disease
+47,Female,ASY,138,257,Diabetes,Normal,156,No,0,Down,0,Noraml blood flow,Disease
+48,Female,ASY,124,255,Normal,Abnormal,175,No,0,Down,2,Noraml blood flow,Disease
+63,Female,ATA,140,187,Diabetes,Normal,144,Yes,4,Down,2,reversable defect,No Disease
+52,Female,NAP,134,201,Diabetes,Abnormal,158,No,0.8,Down,1,Noraml blood flow,Disease
+52,Female,NAP,134,201,Diabetes,Abnormal,158,No,0.8,Down,1,Noraml blood flow,Disease
+50,Female,ASY,140,233,Diabetes,Abnormal,163,No,0.6,Flat,1,reversable defect,No Disease
+49,Female,ASY,118,149,Diabetes,Normal,126,No,0.8,Down,3,Noraml blood flow,No Disease
+46,Female,ASY,150,231,Diabetes,Abnormal,147,No,3.6,Flat,0,Noraml blood flow,No Disease
+38,Female,ASY,138,175,Diabetes,Abnormal,173,No,0,Down,4,Noraml blood flow,Disease
+37,Male,ASY,120,215,Diabetes,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+44,Female,NAP,120,220,Diabetes,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+58,Female,ASY,140,211,Normal,Normal,165,No,0,Down,0,Noraml blood flow,Disease
+59,Male,ATA,174,249,Diabetes,Abnormal,143,Yes,0,Flat,0,Noraml blood flow,No Disease
+62,Male,ATA,140,268,Diabetes,Normal,160,No,3.6,Up,2,Noraml blood flow,No Disease
+68,Female,ATA,144,193,Normal,Abnormal,141,No,3.4,Flat,2,reversable defect,No Disease
+54,Male,ASY,108,267,Diabetes,Normal,167,No,0,Down,0,Noraml blood flow,Disease
+62,Male,ATA,124,209,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+63,Female,ATA,140,187,Diabetes,Normal,144,Yes,4,Down,2,reversable defect,No Disease
+44,Female,ATA,120,169,Diabetes,Abnormal,144,Yes,2.8,Up,0,Fixed defect,No Disease
+62,Female,NAP,128,208,Normal,Normal,140,No,0,Down,0,Noraml blood flow,Disease
+45,Male,ATA,138,236,Diabetes,Normal,152,Yes,0.2,Flat,0,Noraml blood flow,Disease
+57,Male,ATA,128,303,Diabetes,Normal,159,No,0,Down,1,Noraml blood flow,Disease
+53,Female,ATA,123,282,Diabetes,Abnormal,95,Yes,2,Flat,2,reversable defect,No Disease
+65,Female,ATA,110,248,Diabetes,Normal,158,No,0.6,Down,2,Fixed defect,No Disease
+76,Male,ASY,140,197,Diabetes,Hyper,116,No,1.1,Flat,0,Noraml blood flow,Disease
+43,Male,ASY,122,213,Diabetes,Abnormal,165,No,0.2,Flat,0,Noraml blood flow,Disease
+57,Female,ASY,150,126,Normal,Abnormal,173,No,0.2,Down,1,reversable defect,Disease
+54,Female,NAP,108,309,Diabetes,Abnormal,156,No,0,Down,0,reversable defect,Disease
+47,Female,ASY,138,257,Diabetes,Normal,156,No,0,Down,0,Noraml blood flow,Disease
+52,Female,TA,118,186,Diabetes,Normal,190,No,0,Flat,0,Fixed defect,Disease
+47,Female,ATA,110,275,Diabetes,Normal,118,Yes,1,Flat,1,Noraml blood flow,No Disease
+51,Female,ATA,140,299,Diabetes,Abnormal,173,Yes,1.6,Down,0,reversable defect,No Disease
+62,Female,NAP,120,281,Diabetes,Normal,103,No,1.4,Flat,1,reversable defect,No Disease
+40,Female,ATA,152,223,Diabetes,Abnormal,181,No,0,Down,0,reversable defect,No Disease
+54,Female,ATA,110,206,Diabetes,Normal,108,Yes,0,Flat,1,Noraml blood flow,No Disease
+44,Female,ATA,110,197,Diabetes,Normal,177,No,0,Down,1,Noraml blood flow,No Disease
+53,Female,ATA,142,226,Diabetes,Normal,111,Yes,0,Down,0,reversable defect,Disease
+48,Female,ATA,130,256,Normal,Normal,150,Yes,0,Down,2,reversable defect,No Disease
+57,Female,ATA,110,335,Diabetes,Abnormal,143,Yes,3,Flat,1,reversable defect,No Disease
+59,Female,ASY,126,218,Normal,Abnormal,134,No,2.2,Flat,1,Fixed defect,No Disease
+61,Male,ATA,145,307,Diabetes,Normal,146,Yes,1,Flat,0,reversable defect,No Disease
+63,Female,ATA,130,254,Diabetes,Normal,147,No,1.4,Flat,1,reversable defect,No Disease
+43,Female,ATA,120,177,Diabetes,Normal,120,Yes,2.5,Flat,0,reversable defect,No Disease
+29,Female,NAP,130,204,Diabetes,Normal,202,No,0,Down,0,Noraml blood flow,Disease
+42,Female,NAP,120,295,Diabetes,Abnormal,162,No,0,Down,0,Noraml blood flow,Disease
+54,Female,NAP,108,309,Diabetes,Abnormal,156,No,0,Down,0,reversable defect,Disease
+44,Female,ATA,120,169,Diabetes,Abnormal,144,Yes,2.8,Up,0,Fixed defect,No Disease
+60,Female,ATA,145,282,Diabetes,Normal,142,Yes,2.8,Flat,2,reversable defect,No Disease
+65,Male,ASY,140,417,Normal,Normal,157,No,0.8,Down,1,Noraml blood flow,Disease
+61,Female,ATA,120,260,Diabetes,Abnormal,140,Yes,3.6,Flat,1,reversable defect,No Disease
+60,Male,TA,150,240,Diabetes,Abnormal,171,No,0.9,Down,0,Noraml blood flow,Disease
+66,Female,ATA,120,302,Diabetes,Normal,151,No,0.4,Flat,0,Noraml blood flow,Disease
+53,Female,ASY,130,197,Normal,Normal,152,No,1.2,Up,0,Noraml blood flow,Disease
+52,Female,ASY,138,223,Diabetes,Abnormal,169,No,0,Down,4,Noraml blood flow,Disease
+57,Female,ATA,140,192,Diabetes,Abnormal,148,No,0.4,Flat,0,Fixed defect,Disease
+60,Male,TA,150,240,Diabetes,Abnormal,171,No,0.9,Down,0,Noraml blood flow,Disease
+51,Male,ASY,130,256,Diabetes,Normal,149,No,0.5,Down,0,Noraml blood flow,Disease
+41,Female,NAP,135,203,Diabetes,Abnormal,132,No,0,Flat,0,Fixed defect,Disease
+50,Female,ASY,129,196,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+54,Female,NAP,108,309,Diabetes,Abnormal,156,No,0,Down,0,reversable defect,Disease
+58,Male,ATA,170,225,Normal,Normal,146,Yes,2.8,Flat,2,Fixed defect,No Disease
+55,Male,NAP,132,342,Diabetes,Abnormal,166,No,1.2,Down,0,Noraml blood flow,Disease
+64,Male,ATA,180,325,Diabetes,Abnormal,154,Yes,0,Down,0,Noraml blood flow,Disease
+47,Female,ASY,138,257,Diabetes,Normal,156,No,0,Down,0,Noraml blood flow,Disease
+41,Female,NAP,110,235,Diabetes,Abnormal,153,No,0,Down,0,Noraml blood flow,Disease
+57,Female,ATA,152,274,Diabetes,Abnormal,88,Yes,1.2,Flat,1,reversable defect,No Disease
+63,Male,ATA,124,197,Diabetes,Abnormal,136,Yes,0,Flat,0,Noraml blood flow,No Disease
+61,Female,TA,134,234,Diabetes,Abnormal,145,No,2.6,Flat,2,Noraml blood flow,No Disease
+34,Female,TA,118,182,Diabetes,Normal,174,No,0,Down,0,Noraml blood flow,Disease
+47,Female,ATA,112,204,Diabetes,Abnormal,143,No,0.1,Down,0,Noraml blood flow,Disease
+40,Female,ATA,110,167,Diabetes,Normal,114,Yes,2,Flat,0,reversable defect,No Disease
+51,Male,ASY,120,295,Diabetes,Normal,157,No,0.6,Down,0,Noraml blood flow,Disease
+41,Female,ATA,110,172,Diabetes,Normal,158,No,0,Down,0,reversable defect,No Disease
+52,Female,TA,152,298,Normal,Abnormal,178,No,1.2,Flat,0,reversable defect,Disease
+39,Female,ASY,140,321,Diabetes,Normal,182,No,0,Down,0,Noraml blood flow,Disease
+58,Female,ATA,114,318,Diabetes,Hyper,140,No,4.4,Up,3,Fixed defect,No Disease
+54,Female,NAP,192,283,Diabetes,Normal,195,No,0,Down,1,reversable defect,No Disease
+58,Female,ATA,125,300,Diabetes,Normal,171,No,0,Down,2,reversable defect,No Disease
+54,Female,ASY,120,258,Diabetes,Normal,147,No,0.4,Flat,0,reversable defect,Disease
+63,Female,ATA,130,330,Normal,Normal,132,Yes,1.8,Down,3,reversable defect,No Disease
+54,Female,NAP,108,309,Diabetes,Abnormal,156,No,0,Down,0,reversable defect,Disease
+40,Female,TA,140,199,Diabetes,Abnormal,178,Yes,1.4,Down,0,reversable defect,Disease
+54,Female,ASY,120,258,Diabetes,Normal,147,No,0.4,Flat,0,reversable defect,Disease
+67,Male,ASY,115,564,Diabetes,Normal,160,No,1.6,Flat,0,reversable defect,Disease
+41,Female,NAP,120,157,Diabetes,Abnormal,182,No,0,Down,0,Noraml blood flow,Disease
+77,Female,ATA,125,304,Diabetes,Normal,162,Yes,0,Down,3,Noraml blood flow,No Disease
+51,Female,ASY,100,222,Diabetes,Abnormal,143,Yes,1.2,Flat,0,Noraml blood flow,Disease
+77,Female,ATA,125,304,Diabetes,Normal,162,Yes,0,Down,3,Noraml blood flow,No Disease
+48,Female,ATA,124,274,Diabetes,Normal,166,No,0.5,Flat,0,reversable defect,No Disease
+56,Female,ATA,125,249,Normal,Normal,144,Yes,1.2,Flat,1,Noraml blood flow,No Disease
+59,Female,ATA,170,326,Diabetes,Normal,140,Yes,3.4,Up,0,reversable defect,No Disease
+56,Female,ATA,132,184,Diabetes,Normal,105,Yes,2.1,Flat,1,Fixed defect,No Disease
+57,Male,ATA,120,354,Diabetes,Abnormal,163,Yes,0.6,Down,0,Noraml blood flow,Disease
+43,Female,ASY,130,315,Diabetes,Abnormal,162,No,1.9,Down,1,Noraml blood flow,Disease
+45,Male,NAP,112,160,Diabetes,Abnormal,138,No,0,Flat,0,Noraml blood flow,Disease
+43,Female,ATA,150,247,Diabetes,Abnormal,171,No,1.5,Down,0,Noraml blood flow,Disease
+56,Female,ATA,130,283,Normal,Normal,103,Yes,1.6,Up,0,reversable defect,No Disease
+56,Female,NAP,120,240,Diabetes,Abnormal,169,No,0,Up,0,Noraml blood flow,Disease
+39,Male,ASY,94,199,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+54,Female,ATA,110,239,Diabetes,Abnormal,126,Yes,2.8,Flat,1,reversable defect,No Disease
+56,Male,ATA,200,288,Normal,Normal,133,Yes,4,Up,2,reversable defect,No Disease
+56,Female,ATA,130,283,Normal,Normal,103,Yes,1.6,Up,0,reversable defect,No Disease
+64,Female,ATA,120,246,Diabetes,Normal,96,Yes,2.2,Up,1,Noraml blood flow,No Disease
+44,Female,ATA,110,197,Diabetes,Normal,177,No,0,Down,1,Noraml blood flow,No Disease
+56,Male,ATA,134,409,Diabetes,Normal,150,Yes,1.9,Flat,2,reversable defect,No Disease
+63,Female,ATA,140,187,Diabetes,Normal,144,Yes,4,Down,2,reversable defect,No Disease
+64,Female,TA,110,211,Diabetes,Normal,144,Yes,1.8,Flat,0,Noraml blood flow,Disease
+60,Female,ATA,140,293,Diabetes,Normal,170,No,1.2,Flat,2,reversable defect,No Disease
+42,Female,ASY,130,180,Diabetes,Abnormal,150,No,0,Down,0,Noraml blood flow,Disease
+45,Female,NAP,128,308,Diabetes,Normal,170,No,0,Down,0,Noraml blood flow,Disease
+57,Female,ATA,165,289,Normal,Normal,124,No,1,Flat,3,reversable defect,No Disease
+40,Female,ATA,110,167,Diabetes,Normal,114,Yes,2,Flat,0,reversable defect,No Disease
+56,Female,ATA,125,249,Normal,Normal,144,Yes,1.2,Flat,1,Noraml blood flow,No Disease
+63,Female,ATA,130,254,Diabetes,Normal,147,No,1.4,Flat,1,reversable defect,No Disease
+64,Female,ASY,125,309,Diabetes,Abnormal,131,Yes,1.8,Flat,0,reversable defect,No Disease
+41,Female,ASY,112,250,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+56,Female,NAP,130,221,Diabetes,Normal,163,No,0,Down,0,reversable defect,Disease
+67,Male,ASY,115,564,Diabetes,Normal,160,No,1.6,Flat,0,reversable defect,Disease
+69,Female,TA,160,234,Normal,Normal,131,No,0.1,Flat,1,Noraml blood flow,Disease
+67,Female,ATA,160,286,Diabetes,Normal,108,Yes,1.5,Flat,3,Noraml blood flow,No Disease
+59,Female,ASY,150,212,Normal,Abnormal,157,No,1.6,Down,0,Noraml blood flow,Disease
+58,Female,ATA,100,234,Diabetes,Abnormal,156,No,0.1,Down,1,reversable defect,No Disease
+45,Female,ATA,115,260,Diabetes,Normal,185,No,0,Down,0,Noraml blood flow,Disease
+60,Male,ASY,102,318,Diabetes,Abnormal,160,No,0,Down,1,Noraml blood flow,Disease
+50,Female,ATA,144,200,Diabetes,Normal,126,Yes,0.9,Flat,0,reversable defect,No Disease
+62,Male,ATA,124,209,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+34,Female,TA,118,182,Diabetes,Normal,174,No,0,Down,0,Noraml blood flow,Disease
+52,Female,TA,152,298,Normal,Abnormal,178,No,1.2,Flat,0,reversable defect,Disease
+64,Female,TA,170,227,Diabetes,Normal,155,No,0.6,Flat,0,reversable defect,Disease
+66,Male,ASY,146,278,Diabetes,Normal,152,No,0,Flat,1,Noraml blood flow,Disease
+42,Female,TA,148,244,Diabetes,Normal,178,No,0.8,Down,2,Noraml blood flow,Disease
+59,Female,ASY,126,218,Normal,Abnormal,134,No,2.2,Flat,1,Fixed defect,No Disease
+41,Female,ASY,112,250,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+38,Female,ASY,138,175,Diabetes,Abnormal,173,No,0,Down,4,Noraml blood flow,Disease
+62,Female,NAP,120,281,Diabetes,Normal,103,No,1.4,Flat,1,reversable defect,No Disease
+42,Female,ASY,120,240,Normal,Abnormal,194,No,0.8,Up,0,reversable defect,Disease
+67,Female,ATA,100,299,Diabetes,Normal,125,Yes,0.9,Flat,2,Noraml blood flow,No Disease
+50,Female,ATA,150,243,Diabetes,Normal,128,No,2.6,Flat,0,reversable defect,No Disease
+43,Female,ASY,130,315,Diabetes,Abnormal,162,No,1.9,Down,1,Noraml blood flow,Disease
+45,Female,NAP,128,308,Diabetes,Normal,170,No,0,Down,0,Noraml blood flow,Disease
+49,Female,NAP,130,266,Diabetes,Abnormal,171,No,0.6,Down,0,Noraml blood flow,Disease
+65,Female,ATA,135,254,Diabetes,Normal,127,No,2.8,Flat,1,reversable defect,No Disease
+41,Female,NAP,120,157,Diabetes,Abnormal,182,No,0,Down,0,Noraml blood flow,Disease
+46,Female,ATA,140,311,Diabetes,Abnormal,120,Yes,1.8,Flat,2,reversable defect,No Disease
+54,Female,ATA,122,286,Diabetes,Normal,116,Yes,3.2,Flat,2,Noraml blood flow,No Disease
+57,Male,NAP,130,236,Diabetes,Normal,174,No,0,Flat,1,Noraml blood flow,No Disease
+63,Female,ATA,130,254,Diabetes,Normal,147,No,1.4,Flat,1,reversable defect,No Disease
+64,Female,TA,110,211,Diabetes,Normal,144,Yes,1.8,Flat,0,Noraml blood flow,Disease
+39,Male,ASY,94,199,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+51,Female,ATA,140,261,Diabetes,Normal,186,Yes,0,Down,0,Noraml blood flow,Disease
+54,Female,ASY,150,232,Diabetes,Normal,165,No,1.6,Down,0,reversable defect,Disease
+49,Female,ASY,118,149,Diabetes,Normal,126,No,0.8,Down,3,Noraml blood flow,No Disease
+44,Male,ASY,118,242,Diabetes,Abnormal,149,No,0.3,Flat,1,Noraml blood flow,Disease
+52,Female,NAP,128,205,Normal,Abnormal,184,No,0,Down,0,Noraml blood flow,Disease
+66,Male,ATA,178,228,Normal,Abnormal,165,Yes,1,Flat,2,reversable defect,No Disease
+58,Female,ATA,125,300,Diabetes,Normal,171,No,0,Down,2,reversable defect,No Disease
+56,Female,NAP,120,236,Diabetes,Abnormal,178,No,0.8,Down,0,Noraml blood flow,Disease
+60,Female,ATA,125,258,Diabetes,Normal,141,Yes,2.8,Flat,1,reversable defect,No Disease
+41,Male,NAP,126,306,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+49,Male,ATA,130,269,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+64,Female,TA,170,227,Diabetes,Normal,155,No,0.6,Flat,0,reversable defect,Disease
+49,Female,ASY,118,149,Diabetes,Normal,126,No,0.8,Down,3,Noraml blood flow,No Disease
+57,Female,NAP,124,261,Diabetes,Abnormal,141,No,0.3,Down,0,reversable defect,No Disease
+60,Female,ATA,117,230,Normal,Abnormal,160,Yes,1.4,Down,2,reversable defect,No Disease
+62,Male,ATA,150,244,Diabetes,Abnormal,154,Yes,1.4,Flat,0,Noraml blood flow,No Disease
+54,Male,NAP,132,288,Normal,Normal,159,Yes,0,Down,1,Noraml blood flow,Disease
+67,Female,ASY,152,212,Diabetes,Normal,150,No,0.8,Flat,0,reversable defect,No Disease
+38,Female,ASY,138,175,Diabetes,Abnormal,173,No,0,Down,4,Noraml blood flow,Disease
+60,Female,ASY,140,185,Diabetes,Normal,155,No,3,Flat,0,Noraml blood flow,No Disease
+51,Female,ASY,125,245,Normal,Normal,166,No,2.4,Flat,0,Noraml blood flow,Disease
+44,Female,NAP,130,219,Diabetes,Normal,188,No,0,Down,0,Noraml blood flow,Disease
+54,Female,NAP,192,283,Diabetes,Normal,195,No,0,Down,1,reversable defect,No Disease
+46,Female,ATA,140,311,Diabetes,Abnormal,120,Yes,1.8,Flat,2,reversable defect,No Disease
+39,Male,ASY,138,220,Diabetes,Abnormal,152,No,0,Flat,0,Noraml blood flow,Disease
+42,Female,ASY,130,180,Diabetes,Abnormal,150,No,0,Down,0,Noraml blood flow,Disease
+47,Female,ATA,110,275,Diabetes,Normal,118,Yes,1,Flat,1,Noraml blood flow,No Disease
+45,Male,NAP,112,160,Diabetes,Abnormal,138,No,0,Flat,0,Noraml blood flow,Disease
+55,Female,ATA,132,353,Diabetes,Abnormal,132,Yes,1.2,Flat,1,reversable defect,No Disease
+57,Female,ATA,165,289,Normal,Normal,124,No,1,Flat,3,reversable defect,No Disease
+35,Female,ATA,120,198,Diabetes,Abnormal,130,Yes,1.6,Flat,0,reversable defect,No Disease
+62,Male,ATA,140,394,Diabetes,Normal,157,No,1.2,Flat,0,Noraml blood flow,Disease
+35,Male,ATA,138,183,Diabetes,Abnormal,182,No,1.4,Down,0,Noraml blood flow,Disease
+64,Male,ATA,180,325,Diabetes,Abnormal,154,Yes,0,Down,0,Noraml blood flow,Disease
+38,Female,TA,120,231,Diabetes,Abnormal,182,Yes,3.8,Flat,0,reversable defect,No Disease
+66,Female,ATA,120,302,Diabetes,Normal,151,No,0.4,Flat,0,Noraml blood flow,Disease
+44,Female,ASY,120,226,Diabetes,Abnormal,169,No,0,Down,0,Noraml blood flow,Disease
+54,Female,ASY,150,232,Diabetes,Normal,165,No,1.6,Down,0,reversable defect,Disease
+48,Female,ATA,122,222,Diabetes,Normal,186,No,0,Down,0,Noraml blood flow,Disease
+55,Male,NAP,132,342,Diabetes,Abnormal,166,No,1.2,Down,0,Noraml blood flow,Disease
+58,Male,ATA,170,225,Normal,Normal,146,Yes,2.8,Flat,2,Fixed defect,No Disease
+45,Female,ATA,104,208,Diabetes,Normal,148,Yes,3,Flat,0,Noraml blood flow,Disease
+53,Female,ATA,123,282,Diabetes,Abnormal,95,Yes,2,Flat,2,reversable defect,No Disease
+67,Female,ATA,120,237,Diabetes,Abnormal,71,No,1,Flat,0,Noraml blood flow,No Disease
+58,Female,ASY,132,224,Diabetes,Normal,173,No,3.2,Down,2,reversable defect,No Disease
+71,Male,ASY,110,265,Normal,Normal,130,No,0,Down,1,Noraml blood flow,Disease
+43,Female,ATA,110,211,Diabetes,Abnormal,161,No,0,Down,0,reversable defect,Disease
+44,Female,NAP,120,263,Diabetes,Abnormal,173,No,0,Down,0,reversable defect,Disease
+39,Male,ASY,138,220,Diabetes,Abnormal,152,No,0,Flat,0,Noraml blood flow,Disease
+54,Female,ATA,110,206,Diabetes,Normal,108,Yes,0,Flat,1,Noraml blood flow,No Disease
+66,Female,ATA,160,228,Diabetes,Normal,138,No,2.3,Down,0,Fixed defect,Disease
+56,Female,ATA,130,283,Normal,Normal,103,Yes,1.6,Up,0,reversable defect,No Disease
+57,Female,ATA,132,207,Diabetes,Abnormal,168,Yes,0,Down,0,reversable defect,Disease
+44,Female,NAP,130,219,Diabetes,Normal,188,No,0,Down,0,Noraml blood flow,Disease
+55,Female,ATA,160,289,Diabetes,Normal,145,Yes,0.8,Flat,1,reversable defect,No Disease
+41,Male,NAP,105,198,Diabetes,Abnormal,168,No,0,Down,1,Noraml blood flow,Disease
+45,Male,NAP,130,234,Diabetes,Normal,175,No,0.6,Flat,0,Noraml blood flow,Disease
+35,Female,NAP,122,192,Diabetes,Abnormal,174,No,0,Down,0,Noraml blood flow,Disease
+41,Male,NAP,130,204,Diabetes,Normal,172,No,1.4,Down,0,Noraml blood flow,Disease
+64,Female,TA,110,211,Diabetes,Normal,144,Yes,1.8,Flat,0,Noraml blood flow,Disease
+58,Female,ASY,132,224,Diabetes,Normal,173,No,3.2,Down,2,reversable defect,No Disease
+71,Male,ASY,110,265,Normal,Normal,130,No,0,Down,1,Noraml blood flow,Disease
+64,Male,ASY,140,313,Diabetes,Abnormal,133,No,0.2,Down,0,reversable defect,Disease
+71,Male,NAP,160,302,Diabetes,Abnormal,162,No,0.4,Down,2,Noraml blood flow,Disease
+58,Male,ASY,120,340,Diabetes,Abnormal,172,No,0,Down,0,Noraml blood flow,Disease
+40,Female,ATA,152,223,Diabetes,Abnormal,181,No,0,Down,0,reversable defect,No Disease
+52,Female,ASY,138,223,Diabetes,Abnormal,169,No,0,Down,4,Noraml blood flow,Disease
+58,Female,ATA,128,259,Diabetes,Normal,130,Yes,3,Flat,2,reversable defect,No Disease
+61,Female,ASY,150,243,Normal,Abnormal,137,Yes,1,Flat,0,Noraml blood flow,Disease
+59,Female,ASY,150,212,Normal,Abnormal,157,No,1.6,Down,0,Noraml blood flow,Disease
+56,Male,ATA,200,288,Normal,Normal,133,Yes,4,Up,2,reversable defect,No Disease
+67,Female,ATA,100,299,Diabetes,Normal,125,Yes,0.9,Flat,2,Noraml blood flow,No Disease
+67,Female,ATA,120,237,Diabetes,Abnormal,71,No,1,Flat,0,Noraml blood flow,No Disease
+58,Female,ATA,150,270,Diabetes,Normal,111,Yes,0.8,Down,0,reversable defect,No Disease
+35,Female,NAP,122,192,Diabetes,Abnormal,174,No,0,Down,0,Noraml blood flow,Disease
+52,Female,NAP,120,325,Diabetes,Abnormal,172,No,0.2,Down,0,Noraml blood flow,Disease
+46,Male,NAP,105,204,Diabetes,Abnormal,172,No,0,Down,0,Noraml blood flow,Disease
+51,Female,ASY,94,227,Diabetes,Abnormal,154,Yes,0,Down,1,reversable defect,Disease
+55,Male,NAP,132,342,Diabetes,Abnormal,166,No,1.2,Down,0,Noraml blood flow,Disease
+60,Female,ATA,145,282,Diabetes,Normal,142,Yes,2.8,Flat,2,reversable defect,No Disease
+52,Male,ASY,136,196,Diabetes,Normal,169,No,0.1,Flat,0,Noraml blood flow,Disease
+62,Female,ATA,120,267,Diabetes,Abnormal,99,Yes,1.8,Flat,2,reversable defect,No Disease
+44,Male,ASY,118,242,Diabetes,Abnormal,149,No,0.3,Flat,1,Noraml blood flow,Disease
+44,Female,NAP,120,220,Diabetes,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+59,Female,ASY,126,218,Normal,Abnormal,134,No,2.2,Flat,1,Fixed defect,No Disease
+56,Male,NAP,140,294,Diabetes,Normal,153,No,1.3,Flat,0,Noraml blood flow,Disease
+61,Female,ATA,120,260,Diabetes,Abnormal,140,Yes,3.6,Flat,1,reversable defect,No Disease
+48,Female,ATA,130,256,Normal,Normal,150,Yes,0,Down,2,reversable defect,No Disease
+70,Female,ASY,160,269,Diabetes,Abnormal,112,Yes,2.9,Flat,1,reversable defect,No Disease
+74,Male,NAP,120,269,Diabetes,Normal,121,Yes,0.2,Down,1,Noraml blood flow,Disease
+40,Female,TA,140,199,Diabetes,Abnormal,178,Yes,1.4,Down,0,reversable defect,Disease
+42,Female,TA,148,244,Diabetes,Normal,178,No,0.8,Down,2,Noraml blood flow,Disease
+64,Male,ASY,140,313,Diabetes,Abnormal,133,No,0.2,Down,0,reversable defect,Disease
+63,Male,ASY,135,252,Diabetes,Normal,172,No,0,Down,0,Noraml blood flow,Disease
+59,Female,ATA,140,177,Diabetes,Abnormal,162,Yes,0,Down,1,reversable defect,No Disease
+53,Male,ASY,128,216,Diabetes,Normal,115,No,0,Down,0,Null,Disease
+53,Male,ATA,130,264,Diabetes,Normal,143,No,0.4,Flat,0,Noraml blood flow,Disease
+48,Male,ASY,130,275,Diabetes,Abnormal,139,No,0.2,Down,0,Noraml blood flow,Disease
+45,Female,ATA,142,309,Diabetes,Normal,147,Yes,0,Flat,3,reversable defect,No Disease
+66,Female,NAP,160,246,Diabetes,Abnormal,120,Yes,0,Flat,3,Fixed defect,No Disease
+48,Female,NAP,130,245,Diabetes,Normal,180,No,0.2,Flat,0,Noraml blood flow,Disease
+56,Male,NAP,140,294,Diabetes,Normal,153,No,1.3,Flat,0,Noraml blood flow,Disease
+54,Female,NAP,192,283,Diabetes,Normal,195,No,0,Down,1,reversable defect,No Disease
+57,Female,ATA,150,276,Diabetes,Normal,112,Yes,0.6,Flat,1,Fixed defect,No Disease
+70,Female,ATA,130,322,Diabetes,Normal,109,No,2.4,Flat,3,Noraml blood flow,No Disease
+53,Male,ASY,128,216,Diabetes,Normal,115,No,0,Down,0,Null,Disease
+37,Male,ASY,120,215,Diabetes,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+63,Male,ATA,108,269,Diabetes,Abnormal,169,Yes,1.8,Flat,2,Noraml blood flow,No Disease
+37,Female,ASY,130,250,Diabetes,Abnormal,187,No,3.5,Up,0,Noraml blood flow,Disease
+54,Male,ASY,110,214,Diabetes,Abnormal,158,No,1.6,Flat,0,Noraml blood flow,Disease
+60,Female,ATA,130,206,Diabetes,Normal,132,Yes,2.4,Flat,2,reversable defect,No Disease
+58,Female,ATA,150,270,Diabetes,Normal,111,Yes,0.8,Down,0,reversable defect,No Disease
+57,Female,ASY,150,126,Normal,Abnormal,173,No,0.2,Down,1,reversable defect,Disease
+54,Female,ASY,125,273,Diabetes,Normal,152,No,0.5,Up,1,Noraml blood flow,Disease
+56,Female,ASY,130,256,Normal,Normal,142,Yes,0.6,Flat,1,Fixed defect,No Disease
+60,Female,ATA,130,253,Diabetes,Abnormal,144,Yes,1.4,Down,1,reversable defect,No Disease
+38,Female,ASY,138,175,Diabetes,Abnormal,173,No,0,Down,4,Noraml blood flow,Disease
+44,Female,ASY,120,226,Diabetes,Abnormal,169,No,0,Down,0,Noraml blood flow,Disease
+65,Male,ASY,155,269,Diabetes,Abnormal,148,No,0.8,Down,0,Noraml blood flow,Disease
+52,Female,ASY,172,199,Normal,Abnormal,162,No,0.5,Down,0,reversable defect,Disease
+41,Female,NAP,120,157,Diabetes,Abnormal,182,No,0,Down,0,Noraml blood flow,Disease
+66,Female,NAP,160,246,Diabetes,Abnormal,120,Yes,0,Flat,3,Fixed defect,No Disease
+50,Female,ATA,150,243,Diabetes,Normal,128,No,2.6,Flat,0,reversable defect,No Disease
+54,Male,ASY,108,267,Diabetes,Normal,167,No,0,Down,0,Noraml blood flow,Disease
+43,Female,ATA,132,247,Normal,Normal,143,Yes,0.1,Flat,4,reversable defect,No Disease
+62,Male,ASY,130,263,Diabetes,Abnormal,97,No,1.2,Flat,1,reversable defect,No Disease
+66,Female,ATA,120,302,Diabetes,Normal,151,No,0.4,Flat,0,Noraml blood flow,Disease
+50,Female,ATA,144,200,Diabetes,Normal,126,Yes,0.9,Flat,0,reversable defect,No Disease
+57,Female,ATA,110,335,Diabetes,Abnormal,143,Yes,3,Flat,1,reversable defect,No Disease
+57,Female,ATA,110,201,Diabetes,Abnormal,126,Yes,1.5,Flat,0,Fixed defect,Disease
+57,Female,NAP,124,261,Diabetes,Abnormal,141,No,0.3,Down,0,reversable defect,No Disease
+46,Male,ATA,138,243,Diabetes,Normal,152,Yes,0,Flat,0,Noraml blood flow,Disease
+59,Female,ATA,164,176,Normal,Normal,90,No,1,Flat,2,Fixed defect,No Disease
+67,Female,ATA,160,286,Diabetes,Normal,108,Yes,1.5,Flat,3,Noraml blood flow,No Disease
+59,Female,TA,134,204,Diabetes,Abnormal,162,No,0.8,Down,2,Noraml blood flow,No Disease
+53,Male,ASY,128,216,Diabetes,Normal,115,No,0,Down,0,Null,Disease
+48,Female,ATA,122,222,Diabetes,Normal,186,No,0,Down,0,Noraml blood flow,Disease
+62,Female,ASY,130,231,Diabetes,Abnormal,146,No,1.8,Flat,3,reversable defect,Disease
+43,Male,ASY,122,213,Diabetes,Abnormal,165,No,0.2,Flat,0,Noraml blood flow,Disease
+53,Female,ASY,130,246,Normal,Normal,173,No,0,Down,3,Noraml blood flow,Disease
+57,Male,NAP,130,236,Diabetes,Normal,174,No,0,Flat,1,Noraml blood flow,No Disease
+53,Female,ASY,130,246,Normal,Normal,173,No,0,Down,3,Noraml blood flow,Disease
+58,Female,ASY,112,230,Diabetes,Normal,165,No,2.5,Flat,1,reversable defect,No Disease
+48,Female,NAP,110,229,Diabetes,Abnormal,168,No,1,Up,0,reversable defect,No Disease
+58,Female,ASY,105,240,Diabetes,Normal,154,Yes,0.6,Flat,0,reversable defect,Disease
+51,Female,ASY,110,175,Diabetes,Abnormal,123,No,0.6,Down,0,Noraml blood flow,Disease
+43,Male,ATA,132,341,Normal,Normal,136,Yes,3,Flat,0,reversable defect,No Disease
+55,Female,ATA,132,353,Diabetes,Abnormal,132,Yes,1.2,Flat,1,reversable defect,No Disease
+54,Male,ASY,110,214,Diabetes,Abnormal,158,No,1.6,Flat,0,Noraml blood flow,Disease
+58,Female,NAP,120,284,Diabetes,Normal,160,No,1.8,Flat,0,Noraml blood flow,No Disease
+46,Male,ASY,142,177,Diabetes,Normal,160,Yes,1.4,Up,0,Noraml blood flow,Disease
+66,Female,ATA,160,228,Diabetes,Normal,138,No,2.3,Down,0,Fixed defect,Disease
+59,Female,NAP,140,221,Diabetes,Abnormal,164,Yes,0,Down,0,Noraml blood flow,Disease
+64,Male,ATA,130,303,Diabetes,Abnormal,122,No,2,Flat,2,Noraml blood flow,Disease
+67,Female,ATA,120,237,Diabetes,Abnormal,71,No,1,Flat,0,Noraml blood flow,No Disease
+52,Female,TA,118,186,Diabetes,Normal,190,No,0,Flat,0,Fixed defect,Disease
+58,Female,ATA,146,218,Diabetes,Abnormal,105,No,2,Flat,1,reversable defect,No Disease
+58,Female,ASY,132,224,Diabetes,Normal,173,No,3.2,Down,2,reversable defect,No Disease
+59,Female,ATA,110,239,Diabetes,Normal,142,Yes,1.2,Flat,1,reversable defect,No Disease
+58,Female,ATA,150,270,Diabetes,Normal,111,Yes,0.8,Down,0,reversable defect,No Disease
+35,Female,ATA,126,282,Diabetes,Normal,156,Yes,0,Down,0,reversable defect,No Disease
+51,Female,ASY,110,175,Diabetes,Abnormal,123,No,0.6,Down,0,Noraml blood flow,Disease
+42,Male,ASY,120,209,Diabetes,Abnormal,173,No,0,Flat,0,Noraml blood flow,Disease
+77,Female,ATA,125,304,Diabetes,Normal,162,Yes,0,Down,3,Noraml blood flow,No Disease
+64,Female,ATA,120,246,Diabetes,Normal,96,Yes,2.2,Up,1,Noraml blood flow,No Disease
+63,Female,TA,145,233,Normal,Normal,150,No,2.3,Up,0,Fixed defect,Disease
+58,Male,NAP,136,319,Normal,Normal,152,No,0,Down,2,Noraml blood flow,No Disease
+45,Female,TA,110,264,Diabetes,Abnormal,132,No,1.2,Flat,0,reversable defect,No Disease
+51,Female,ASY,110,175,Diabetes,Abnormal,123,No,0.6,Down,0,Noraml blood flow,Disease
+62,Male,ATA,160,164,Diabetes,Normal,145,No,6.2,Up,3,reversable defect,No Disease
+63,Female,ATA,130,330,Normal,Normal,132,Yes,1.8,Down,3,reversable defect,No Disease
+66,Male,ASY,146,278,Diabetes,Normal,152,No,0,Flat,1,Noraml blood flow,Disease
+68,Female,ASY,180,274,Normal,Normal,150,Yes,1.6,Flat,0,reversable defect,No Disease
+40,Female,ATA,110,167,Diabetes,Normal,114,Yes,2,Flat,0,reversable defect,No Disease
+66,Female,ATA,160,228,Diabetes,Normal,138,No,2.3,Down,0,Fixed defect,Disease
+63,Female,TA,145,233,Normal,Normal,150,No,2.3,Up,0,Fixed defect,Disease
+49,Female,ASY,120,188,Diabetes,Abnormal,139,No,2,Flat,3,reversable defect,No Disease
+71,Male,ATA,112,149,Diabetes,Abnormal,125,No,1.6,Flat,0,Noraml blood flow,Disease
+70,Female,NAP,156,245,Diabetes,Normal,143,No,0,Down,0,Noraml blood flow,Disease
+46,Male,NAP,105,204,Diabetes,Abnormal,172,No,0,Down,0,Noraml blood flow,Disease
+61,Female,ATA,140,207,Diabetes,Normal,138,Yes,1.9,Down,1,reversable defect,No Disease
+56,Female,ASY,130,256,Normal,Normal,142,Yes,0.6,Flat,1,Fixed defect,No Disease
+58,Female,ASY,140,211,Normal,Normal,165,No,0,Down,0,Noraml blood flow,Disease
+58,Female,ATA,100,234,Diabetes,Abnormal,156,No,0.1,Down,1,reversable defect,No Disease
+46,Male,ATA,138,243,Diabetes,Normal,152,Yes,0,Flat,0,Noraml blood flow,Disease
+46,Female,ASY,150,231,Diabetes,Abnormal,147,No,3.6,Flat,0,Noraml blood flow,No Disease
+41,Male,NAP,105,198,Diabetes,Abnormal,168,No,0,Down,1,Noraml blood flow,Disease
+56,Female,ATA,125,249,Normal,Normal,144,Yes,1.2,Flat,1,Noraml blood flow,No Disease
+57,Female,ATA,150,276,Diabetes,Normal,112,Yes,0.6,Flat,1,Fixed defect,No Disease
+70,Female,ATA,130,322,Diabetes,Normal,109,No,2.4,Flat,3,Noraml blood flow,No Disease
+59,Female,TA,170,288,Diabetes,Normal,159,No,0.2,Flat,0,reversable defect,No Disease
+41,Male,NAP,130,204,Diabetes,Normal,172,No,1.4,Down,0,Noraml blood flow,Disease
+54,Female,ASY,125,273,Diabetes,Normal,152,No,0.5,Up,1,Noraml blood flow,Disease
+52,Female,ASY,138,223,Diabetes,Abnormal,169,No,0,Down,4,Noraml blood flow,Disease
+62,Male,ATA,124,209,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+65,Male,ASY,160,360,Diabetes,Normal,151,No,0.8,Down,0,Noraml blood flow,Disease
+57,Male,ATA,128,303,Diabetes,Normal,159,No,0,Down,1,Noraml blood flow,Disease
+42,Male,ATA,102,265,Diabetes,Normal,122,No,0.6,Flat,0,Noraml blood flow,Disease
+57,Male,ATA,120,354,Diabetes,Abnormal,163,Yes,0.6,Down,0,Noraml blood flow,Disease
+58,Male,NAP,136,319,Normal,Normal,152,No,0,Down,2,Noraml blood flow,No Disease
+45,Female,ATA,142,309,Diabetes,Normal,147,Yes,0,Flat,3,reversable defect,No Disease
+51,Male,ATA,130,305,Diabetes,Abnormal,142,Yes,1.2,Flat,0,reversable defect,No Disease
+54,Male,ASY,160,201,Diabetes,Abnormal,163,No,0,Down,1,Noraml blood flow,Disease
+57,Female,ASY,150,168,Diabetes,Abnormal,174,No,1.6,Down,0,Noraml blood flow,Disease
+43,Female,ATA,132,247,Normal,Normal,143,Yes,0.1,Flat,4,reversable defect,No Disease
+47,Female,ASY,108,243,Diabetes,Abnormal,152,No,0,Down,0,Noraml blood flow,No Disease
+67,Female,ASY,152,212,Diabetes,Normal,150,No,0.8,Flat,0,reversable defect,No Disease
+65,Male,ATA,150,225,Diabetes,Normal,114,No,1,Flat,3,reversable defect,No Disease
+60,Male,ASY,102,318,Diabetes,Abnormal,160,No,0,Down,1,Noraml blood flow,Disease
+37,Female,ASY,130,250,Diabetes,Abnormal,187,No,3.5,Up,0,Noraml blood flow,Disease
+41,Male,ASY,112,268,Diabetes,Normal,172,Yes,0,Down,0,Noraml blood flow,Disease
+57,Male,ATA,120,354,Diabetes,Abnormal,163,Yes,0.6,Down,0,Noraml blood flow,Disease
+59,Male,ATA,174,249,Diabetes,Abnormal,143,Yes,0,Flat,0,Noraml blood flow,No Disease
+67,Female,ATA,120,229,Diabetes,Normal,129,Yes,2.6,Flat,2,reversable defect,No Disease
+47,Female,ASY,130,253,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+58,Female,NAP,120,284,Diabetes,Normal,160,No,1.8,Flat,0,Noraml blood flow,No Disease
+62,Male,ATA,150,244,Diabetes,Abnormal,154,Yes,1.4,Flat,0,Noraml blood flow,No Disease
+60,Female,ATA,140,293,Diabetes,Normal,170,No,1.2,Flat,2,reversable defect,No Disease
+57,Female,ATA,152,274,Diabetes,Abnormal,88,Yes,1.2,Flat,1,reversable defect,No Disease
+57,Female,ASY,150,168,Diabetes,Abnormal,174,No,1.6,Down,0,Noraml blood flow,Disease
+47,Female,ASY,130,253,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+52,Female,NAP,128,205,Normal,Abnormal,184,No,0,Down,0,Noraml blood flow,Disease
+53,Female,ASY,130,246,Normal,Normal,173,No,0,Down,3,Noraml blood flow,Disease
+55,Female,ATA,160,289,Diabetes,Normal,145,Yes,0.8,Flat,1,reversable defect,No Disease
+51,Male,ASY,120,295,Diabetes,Normal,157,No,0.6,Down,0,Noraml blood flow,Disease
+52,Female,ATA,112,230,Diabetes,Abnormal,160,No,0,Down,1,Noraml blood flow,No Disease
+63,Male,ATA,150,407,Diabetes,Normal,154,No,4,Flat,3,reversable defect,No Disease
+49,Male,NAP,134,271,Diabetes,Abnormal,162,No,0,Flat,0,Noraml blood flow,Disease
+66,Male,ATA,178,228,Normal,Abnormal,165,Yes,1,Flat,2,reversable defect,No Disease
+49,Male,NAP,134,271,Diabetes,Abnormal,162,No,0,Flat,0,Noraml blood flow,Disease
+65,Male,ATA,150,225,Diabetes,Normal,114,No,1,Flat,3,reversable defect,No Disease
+69,Female,TA,160,234,Normal,Normal,131,No,0.1,Flat,1,Noraml blood flow,Disease
+47,Female,ASY,108,243,Diabetes,Abnormal,152,No,0,Down,0,Noraml blood flow,No Disease
+39,Male,ASY,138,220,Diabetes,Abnormal,152,No,0,Flat,0,Noraml blood flow,Disease
+43,Female,ATA,150,247,Diabetes,Abnormal,171,No,1.5,Down,0,Noraml blood flow,Disease
+51,Female,ATA,140,261,Diabetes,Normal,186,Yes,0,Down,0,Noraml blood flow,Disease
+69,Female,ASY,140,254,Diabetes,Normal,146,No,2,Flat,3,reversable defect,No Disease
+48,Female,ASY,124,255,Normal,Abnormal,175,No,0,Down,2,Noraml blood flow,Disease
+52,Female,TA,118,186,Diabetes,Normal,190,No,0,Flat,0,Fixed defect,Disease
+43,Female,ATA,110,211,Diabetes,Abnormal,161,No,0,Down,0,reversable defect,Disease
+67,Male,ASY,115,564,Diabetes,Normal,160,No,1.6,Flat,0,reversable defect,Disease
+38,Female,ASY,138,175,Diabetes,Abnormal,173,No,0,Down,4,Noraml blood flow,Disease
+44,Female,NAP,130,219,Diabetes,Normal,188,No,0,Down,0,Noraml blood flow,Disease
+47,Female,ATA,110,275,Diabetes,Normal,118,Yes,1,Flat,1,Noraml blood flow,No Disease
+61,Female,ASY,150,243,Normal,Abnormal,137,Yes,1,Flat,0,Noraml blood flow,Disease
+67,Female,ATA,160,286,Diabetes,Normal,108,Yes,1.5,Flat,3,Noraml blood flow,No Disease
+60,Male,TA,150,240,Diabetes,Abnormal,171,No,0.9,Down,0,Noraml blood flow,Disease
+64,Male,ASY,140,313,Diabetes,Abnormal,133,No,0.2,Down,0,reversable defect,Disease
+58,Male,ATA,130,197,Diabetes,Abnormal,131,No,0.6,Flat,0,Noraml blood flow,Disease
+41,Female,ASY,130,214,Diabetes,Normal,168,No,2,Flat,0,Noraml blood flow,Disease
+48,Female,NAP,110,229,Diabetes,Abnormal,168,No,1,Up,0,reversable defect,No Disease
+57,Female,ASY,150,126,Normal,Abnormal,173,No,0.2,Down,1,reversable defect,Disease
+57,Female,ATA,165,289,Normal,Normal,124,No,1,Flat,3,reversable defect,No Disease
+57,Female,ASY,128,229,Diabetes,Normal,150,No,0.4,Flat,1,reversable defect,No Disease
+39,Female,ASY,140,321,Diabetes,Normal,182,No,0,Down,0,Noraml blood flow,Disease
+58,Female,ATA,128,216,Diabetes,Normal,131,Yes,2.2,Flat,3,reversable defect,No Disease
+51,Male,ATA,130,305,Diabetes,Abnormal,142,Yes,1.2,Flat,0,reversable defect,No Disease
+63,Male,ATA,150,407,Diabetes,Normal,154,No,4,Flat,3,reversable defect,No Disease
+51,Female,ATA,140,298,Diabetes,Abnormal,122,Yes,4.2,Flat,3,reversable defect,No Disease
+35,Female,NAP,122,192,Diabetes,Abnormal,174,No,0,Down,0,Noraml blood flow,Disease
+65,Female,ATA,110,248,Diabetes,Normal,158,No,0.6,Down,2,Fixed defect,No Disease
+62,Female,NAP,120,281,Diabetes,Normal,103,No,1.4,Flat,1,reversable defect,No Disease
+41,Female,ATA,110,172,Diabetes,Normal,158,No,0,Down,0,reversable defect,No Disease
+65,Female,ATA,135,254,Diabetes,Normal,127,No,2.8,Flat,1,reversable defect,No Disease
+54,Male,NAP,132,288,Normal,Normal,159,Yes,0,Down,1,Noraml blood flow,Disease
+61,Female,ASY,150,243,Normal,Abnormal,137,Yes,1,Flat,0,Noraml blood flow,Disease
+57,Male,ATA,128,303,Diabetes,Normal,159,No,0,Down,1,Noraml blood flow,Disease
+57,Female,ASY,150,168,Diabetes,Abnormal,174,No,1.6,Down,0,Noraml blood flow,Disease
+64,Female,ASY,125,309,Diabetes,Abnormal,131,Yes,1.8,Flat,0,reversable defect,No Disease
+55,Female,ATA,132,353,Diabetes,Abnormal,132,Yes,1.2,Flat,1,reversable defect,No Disease
+51,Female,ASY,125,245,Normal,Normal,166,No,2.4,Flat,0,Noraml blood flow,Disease
+59,Female,ATA,135,234,Diabetes,Abnormal,161,No,0.5,Flat,0,reversable defect,Disease
+68,Female,ASY,180,274,Normal,Normal,150,Yes,1.6,Flat,0,reversable defect,No Disease
+57,Female,NAP,154,232,Diabetes,Normal,164,No,0,Down,1,Noraml blood flow,No Disease
+54,Female,ATA,140,239,Diabetes,Abnormal,160,No,1.2,Down,0,Noraml blood flow,Disease
+46,Male,ASY,142,177,Diabetes,Normal,160,Yes,1.4,Up,0,Noraml blood flow,Disease
+71,Male,ATA,112,149,Diabetes,Abnormal,125,No,1.6,Flat,0,Noraml blood flow,Disease
+35,Male,ATA,138,183,Diabetes,Abnormal,182,No,1.4,Down,0,Noraml blood flow,Disease
+46,Male,ASY,142,177,Diabetes,Normal,160,Yes,1.4,Up,0,Noraml blood flow,Disease
+45,Male,NAP,130,234,Diabetes,Normal,175,No,0.6,Flat,0,Noraml blood flow,Disease
+47,Female,ASY,108,243,Diabetes,Abnormal,152,No,0,Down,0,Noraml blood flow,No Disease
+44,Male,ASY,118,242,Diabetes,Abnormal,149,No,0.3,Flat,1,Noraml blood flow,Disease
+61,Female,ATA,120,260,Diabetes,Abnormal,140,Yes,3.6,Flat,1,reversable defect,No Disease
+41,Male,NAP,130,204,Diabetes,Normal,172,No,1.4,Down,0,Noraml blood flow,Disease
+56,Male,ATA,200,288,Normal,Normal,133,Yes,4,Up,2,reversable defect,No Disease
+55,Male,ATA,180,327,Diabetes,Hyper,117,Yes,3.4,Flat,0,Noraml blood flow,No Disease
+54,Male,NAP,132,288,Normal,Normal,159,Yes,0,Down,1,Noraml blood flow,Disease
+43,Female,ATA,120,177,Diabetes,Normal,120,Yes,2.5,Flat,0,reversable defect,No Disease
+44,Female,ATA,112,290,Diabetes,Normal,153,No,0,Down,1,Noraml blood flow,No Disease
+54,Female,ATA,110,206,Diabetes,Normal,108,Yes,0,Flat,1,Noraml blood flow,No Disease
+44,Female,NAP,120,220,Diabetes,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+49,Female,ASY,120,188,Diabetes,Abnormal,139,No,2,Flat,3,reversable defect,No Disease
+60,Female,ATA,130,206,Diabetes,Normal,132,Yes,2.4,Flat,2,reversable defect,No Disease
+41,Male,NAP,105,198,Diabetes,Abnormal,168,No,0,Down,1,Noraml blood flow,Disease
+49,Female,ASY,120,188,Diabetes,Abnormal,139,No,2,Flat,3,reversable defect,No Disease
+61,Female,ATA,148,203,Diabetes,Abnormal,161,No,0,Down,1,reversable defect,No Disease
+59,Female,ATA,140,177,Diabetes,Abnormal,162,Yes,0,Down,1,reversable defect,No Disease
+58,Female,NAP,125,220,Diabetes,Abnormal,144,No,0.4,Flat,4,reversable defect,Disease
+67,Male,ASY,152,277,Diabetes,Abnormal,172,No,0,Down,1,Noraml blood flow,Disease
+61,Female,ATA,148,203,Diabetes,Abnormal,161,No,0,Down,1,reversable defect,No Disease
+58,Female,ASY,112,230,Diabetes,Normal,165,No,2.5,Flat,1,reversable defect,No Disease
+51,Male,ASY,130,256,Diabetes,Normal,149,No,0.5,Down,0,Noraml blood flow,Disease
+62,Male,ATA,160,164,Diabetes,Normal,145,No,6.2,Up,3,reversable defect,No Disease
+62,Male,ATA,124,209,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+59,Female,TA,178,270,Diabetes,Normal,145,No,4.2,Up,0,reversable defect,Disease
+69,Female,TA,160,234,Normal,Normal,131,No,0.1,Flat,1,Noraml blood flow,Disease
+60,Male,ATA,150,258,Diabetes,Normal,157,No,2.6,Flat,2,reversable defect,No Disease
+65,Male,ASY,155,269,Diabetes,Abnormal,148,No,0.8,Down,0,Noraml blood flow,Disease
+63,Male,ATA,124,197,Diabetes,Abnormal,136,Yes,0,Flat,0,Noraml blood flow,No Disease
+53,Male,ATA,138,234,Diabetes,Normal,160,No,0,Down,0,Noraml blood flow,Disease
+54,Male,ASY,108,267,Diabetes,Normal,167,No,0,Down,0,Noraml blood flow,Disease
+76,Male,ASY,140,197,Diabetes,Hyper,116,No,1.1,Flat,0,Noraml blood flow,Disease
+50,Male,ASY,120,219,Diabetes,Abnormal,158,No,1.6,Flat,0,Noraml blood flow,Disease
+52,Female,NAP,120,325,Diabetes,Abnormal,172,No,0.2,Down,0,Noraml blood flow,Disease
+46,Female,ATA,120,249,Diabetes,Normal,144,No,0.8,Down,0,reversable defect,No Disease
+64,Female,TA,170,227,Diabetes,Normal,155,No,0.6,Flat,0,reversable defect,Disease
+58,Female,ATA,128,259,Diabetes,Normal,130,Yes,3,Flat,2,reversable defect,No Disease
+44,Female,ASY,140,235,Diabetes,Normal,180,No,0,Down,0,Noraml blood flow,Disease
+62,Male,ATA,140,394,Diabetes,Normal,157,No,1.2,Flat,0,Noraml blood flow,Disease
+59,Female,TA,134,204,Diabetes,Abnormal,162,No,0.8,Down,2,Noraml blood flow,No Disease
+54,Female,ASY,125,273,Diabetes,Normal,152,No,0.5,Up,1,Noraml blood flow,Disease
+48,Female,NAP,110,229,Diabetes,Abnormal,168,No,1,Up,0,reversable defect,No Disease
+70,Female,ATA,130,322,Diabetes,Normal,109,No,2.4,Flat,3,Noraml blood flow,No Disease
+67,Male,ATA,106,223,Diabetes,Abnormal,142,No,0.3,Down,2,Noraml blood flow,Disease
+51,Male,ASY,120,295,Diabetes,Normal,157,No,0.6,Down,0,Noraml blood flow,Disease
+68,Female,ASY,118,277,Diabetes,Abnormal,151,No,1,Down,1,reversable defect,Disease
+69,Female,ASY,140,254,Diabetes,Normal,146,No,2,Flat,3,reversable defect,No Disease
+54,Female,ATA,122,286,Diabetes,Normal,116,Yes,3.2,Flat,2,Noraml blood flow,No Disease
+43,Male,ATA,132,341,Normal,Normal,136,Yes,3,Flat,0,reversable defect,No Disease
+53,Female,ASY,130,197,Normal,Normal,152,No,1.2,Up,0,Noraml blood flow,Disease
+58,Female,ATA,100,234,Diabetes,Abnormal,156,No,0.1,Down,1,reversable defect,No Disease
+67,Female,ATA,125,254,Normal,Abnormal,163,No,0.2,Flat,2,reversable defect,No Disease
+59,Female,ATA,140,177,Diabetes,Abnormal,162,Yes,0,Down,1,reversable defect,No Disease
+48,Female,ATA,122,222,Diabetes,Normal,186,No,0,Down,0,Noraml blood flow,Disease
+39,Male,ASY,94,199,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+67,Female,ATA,120,237,Diabetes,Abnormal,71,No,1,Flat,0,Noraml blood flow,No Disease
+58,Male,ATA,130,197,Diabetes,Abnormal,131,No,0.6,Flat,0,Noraml blood flow,Disease
+65,Male,ASY,155,269,Diabetes,Abnormal,148,No,0.8,Down,0,Noraml blood flow,Disease
+42,Male,ASY,120,209,Diabetes,Abnormal,173,No,0,Flat,0,Noraml blood flow,Disease
+44,Female,ATA,112,290,Diabetes,Normal,153,No,0,Down,1,Noraml blood flow,No Disease
+56,Female,ATA,132,184,Diabetes,Normal,105,Yes,2.1,Flat,1,Fixed defect,No Disease
+53,Male,ATA,138,234,Diabetes,Normal,160,No,0,Down,0,Noraml blood flow,Disease
+50,Male,ATA,110,254,Diabetes,Normal,159,No,0,Down,0,Noraml blood flow,Disease
+41,Female,ASY,130,214,Diabetes,Normal,168,No,2,Flat,0,Noraml blood flow,Disease
+54,Male,ASY,160,201,Diabetes,Abnormal,163,No,0,Down,1,Noraml blood flow,Disease
+42,Female,ASY,120,240,Normal,Abnormal,194,No,0.8,Up,0,reversable defect,Disease
+54,Male,ASY,135,304,Normal,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+60,Female,ATA,145,282,Diabetes,Normal,142,Yes,2.8,Flat,2,reversable defect,No Disease
+34,Female,TA,118,182,Diabetes,Normal,174,No,0,Down,0,Noraml blood flow,Disease
+44,Female,ATA,112,290,Diabetes,Normal,153,No,0,Down,1,Noraml blood flow,No Disease
+60,Female,ATA,125,258,Diabetes,Normal,141,Yes,2.8,Flat,1,reversable defect,No Disease
+43,Female,ATA,150,247,Diabetes,Abnormal,171,No,1.5,Down,0,Noraml blood flow,Disease
+52,Female,TA,152,298,Normal,Abnormal,178,No,1.2,Flat,0,reversable defect,Disease
+70,Female,ATA,130,322,Diabetes,Normal,109,No,2.4,Flat,3,Noraml blood flow,No Disease
+62,Male,ATA,140,394,Diabetes,Normal,157,No,1.2,Flat,0,Noraml blood flow,Disease
+58,Female,ATA,146,218,Diabetes,Abnormal,105,No,2,Flat,1,reversable defect,No Disease
+46,Female,NAP,101,197,Normal,Abnormal,156,No,0,Down,0,reversable defect,Disease
+44,Female,ASY,140,235,Diabetes,Normal,180,No,0,Down,0,Noraml blood flow,Disease
+55,Female,NAP,130,262,Diabetes,Abnormal,155,No,0,Down,0,Noraml blood flow,Disease
+43,Female,ATA,120,177,Diabetes,Normal,120,Yes,2.5,Flat,0,reversable defect,No Disease
+55,Female,ATA,132,353,Diabetes,Abnormal,132,Yes,1.2,Flat,1,reversable defect,No Disease
+40,Female,TA,140,199,Diabetes,Abnormal,178,Yes,1.4,Down,0,reversable defect,Disease
+64,Female,ASY,125,309,Diabetes,Abnormal,131,Yes,1.8,Flat,0,reversable defect,No Disease
+59,Female,ATA,164,176,Normal,Normal,90,No,1,Flat,2,Fixed defect,No Disease
+61,Male,ATA,145,307,Diabetes,Normal,146,Yes,1,Flat,0,reversable defect,No Disease
+54,Female,ATA,122,286,Diabetes,Normal,116,Yes,3.2,Flat,2,Noraml blood flow,No Disease
+74,Male,NAP,120,269,Diabetes,Normal,121,Yes,0.2,Down,1,Noraml blood flow,Disease
+63,Male,ATA,108,269,Diabetes,Abnormal,169,Yes,1.8,Flat,2,Noraml blood flow,No Disease
+70,Female,ASY,160,269,Diabetes,Abnormal,112,Yes,2.9,Flat,1,reversable defect,No Disease
+63,Male,ATA,108,269,Diabetes,Abnormal,169,Yes,1.8,Flat,2,Noraml blood flow,No Disease
+64,Female,ATA,145,212,Diabetes,Normal,132,No,2,Flat,2,Fixed defect,No Disease
+61,Female,ATA,148,203,Diabetes,Abnormal,161,No,0,Down,1,reversable defect,No Disease
+59,Female,NAP,140,221,Diabetes,Abnormal,164,Yes,0,Down,0,Noraml blood flow,Disease
+38,Female,ASY,138,175,Diabetes,Abnormal,173,No,0,Down,4,Noraml blood flow,Disease
+58,Female,NAP,120,284,Diabetes,Normal,160,No,1.8,Flat,0,Noraml blood flow,No Disease
+63,Male,NAP,140,195,Diabetes,Abnormal,179,No,0,Down,2,Noraml blood flow,Disease
+62,Male,ASY,130,263,Diabetes,Abnormal,97,No,1.2,Flat,1,reversable defect,No Disease
+46,Female,ATA,140,311,Diabetes,Abnormal,120,Yes,1.8,Flat,2,reversable defect,No Disease
+58,Male,ASY,120,340,Diabetes,Abnormal,172,No,0,Down,0,Noraml blood flow,Disease
+63,Male,NAP,140,195,Diabetes,Abnormal,179,No,0,Down,2,Noraml blood flow,Disease
+47,Female,ASY,130,253,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+71,Male,ASY,110,265,Normal,Normal,130,No,0,Down,1,Noraml blood flow,Disease
+66,Female,ATA,112,212,Diabetes,Normal,132,Yes,0.1,Down,1,Noraml blood flow,No Disease
+42,Female,ATA,136,315,Diabetes,Abnormal,125,Yes,1.8,Flat,0,Fixed defect,No Disease
+64,Female,ATA,145,212,Diabetes,Normal,132,No,2,Flat,2,Fixed defect,No Disease
+55,Male,ATA,180,327,Diabetes,Hyper,117,Yes,3.4,Flat,0,Noraml blood flow,No Disease
+43,Male,ATA,132,341,Normal,Normal,136,Yes,3,Flat,0,reversable defect,No Disease
+55,Male,ATA,128,205,Diabetes,Hyper,130,Yes,2,Flat,1,reversable defect,No Disease
+58,Male,ATA,170,225,Normal,Normal,146,Yes,2.8,Flat,2,Fixed defect,No Disease
+55,Female,ATA,140,217,Diabetes,Abnormal,111,Yes,5.6,Up,0,reversable defect,No Disease
+51,Male,ATA,130,305,Diabetes,Abnormal,142,Yes,1.2,Flat,0,reversable defect,No Disease
+50,Male,ASY,120,219,Diabetes,Abnormal,158,No,1.6,Flat,0,Noraml blood flow,Disease
+43,Female,ATA,115,303,Diabetes,Abnormal,181,No,1.2,Flat,0,Noraml blood flow,Disease
+41,Male,NAP,126,306,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+49,Female,NAP,130,266,Diabetes,Abnormal,171,No,0.6,Down,0,Noraml blood flow,Disease
+65,Female,ATA,110,248,Diabetes,Normal,158,No,0.6,Down,2,Fixed defect,No Disease
+57,Female,ATA,152,274,Diabetes,Abnormal,88,Yes,1.2,Flat,1,reversable defect,No Disease
+48,Female,ATA,130,256,Normal,Normal,150,Yes,0,Down,2,reversable defect,No Disease
+62,Male,ATA,138,294,Normal,Abnormal,106,No,1.9,Flat,3,Noraml blood flow,No Disease
+61,Female,TA,134,234,Diabetes,Abnormal,145,No,2.6,Flat,2,Noraml blood flow,No Disease
+59,Female,TA,178,270,Diabetes,Normal,145,No,4.2,Up,0,reversable defect,Disease
+69,Female,ASY,140,254,Diabetes,Normal,146,No,2,Flat,3,reversable defect,No Disease
+58,Female,ASY,132,224,Diabetes,Normal,173,No,3.2,Down,2,reversable defect,No Disease
+38,Female,TA,120,231,Diabetes,Abnormal,182,Yes,3.8,Flat,0,reversable defect,No Disease
+69,Male,TA,140,239,Diabetes,Abnormal,151,No,1.8,Down,2,Noraml blood flow,Disease
+65,Female,TA,138,282,Normal,Normal,174,No,1.4,Flat,1,Noraml blood flow,No Disease
+45,Female,TA,110,264,Diabetes,Abnormal,132,No,1.2,Flat,0,reversable defect,No Disease
+49,Female,NAP,130,266,Diabetes,Abnormal,171,No,0.6,Down,0,Noraml blood flow,Disease
+45,Male,NAP,130,234,Diabetes,Normal,175,No,0.6,Flat,0,Noraml blood flow,Disease
+61,Female,ATA,138,166,Diabetes,Normal,125,Yes,3.6,Flat,1,Noraml blood flow,No Disease
+52,Female,ATA,125,212,Diabetes,Abnormal,168,No,1,Down,2,reversable defect,No Disease
+53,Male,ATA,130,264,Diabetes,Normal,143,No,0.4,Flat,0,Noraml blood flow,Disease
+59,Male,ATA,174,249,Diabetes,Abnormal,143,Yes,0,Flat,0,Noraml blood flow,No Disease
+58,Male,ASY,120,340,Diabetes,Abnormal,172,No,0,Down,0,Noraml blood flow,Disease
+65,Female,TA,138,282,Normal,Normal,174,No,1.4,Flat,1,Noraml blood flow,No Disease
+58,Male,ATA,130,197,Diabetes,Abnormal,131,No,0.6,Flat,0,Noraml blood flow,Disease
+46,Male,ATA,138,243,Diabetes,Normal,152,Yes,0,Flat,0,Noraml blood flow,Disease
+56,Male,ATA,134,409,Diabetes,Normal,150,Yes,1.9,Flat,2,reversable defect,No Disease
+64,Female,ATA,128,263,Diabetes,Abnormal,105,Yes,0.2,Flat,1,reversable defect,Disease
+65,Female,ATA,120,177,Diabetes,Abnormal,140,No,0.4,Down,0,reversable defect,Disease
+44,Female,ASY,120,226,Diabetes,Abnormal,169,No,0,Down,0,Noraml blood flow,Disease
+50,Female,ATA,150,243,Diabetes,Normal,128,No,2.6,Flat,0,reversable defect,No Disease
+47,Female,ASY,108,243,Diabetes,Abnormal,152,No,0,Down,0,Noraml blood flow,No Disease
+64,Male,ATA,130,303,Diabetes,Abnormal,122,No,2,Flat,2,Noraml blood flow,Disease
+71,Male,ATA,112,149,Diabetes,Abnormal,125,No,1.6,Flat,0,Noraml blood flow,Disease
+45,Male,NAP,130,234,Diabetes,Normal,175,No,0.6,Flat,0,Noraml blood flow,Disease
+62,Female,ATA,120,267,Diabetes,Abnormal,99,Yes,1.8,Flat,2,reversable defect,No Disease
+41,Female,NAP,120,157,Diabetes,Abnormal,182,No,0,Down,0,Noraml blood flow,Disease
+66,Male,TA,150,226,Diabetes,Abnormal,114,No,2.6,Up,0,Noraml blood flow,Disease
+56,Female,ATA,130,283,Normal,Normal,103,Yes,1.6,Up,0,reversable defect,No Disease
+41,Male,NAP,126,306,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+41,Female,NAP,110,235,Diabetes,Abnormal,153,No,0,Down,0,Noraml blood flow,Disease
+57,Male,NAP,130,236,Diabetes,Normal,174,No,0,Flat,1,Noraml blood flow,No Disease
+39,Male,ASY,138,220,Diabetes,Abnormal,152,No,0,Flat,0,Noraml blood flow,Disease
+64,Female,ASY,125,309,Diabetes,Abnormal,131,Yes,1.8,Flat,0,reversable defect,No Disease
+59,Female,ATA,138,271,Diabetes,Normal,182,No,0,Down,0,Noraml blood flow,Disease
+61,Female,ATA,138,166,Diabetes,Normal,125,Yes,3.6,Flat,1,Noraml blood flow,No Disease
+58,Female,ATA,114,318,Diabetes,Hyper,140,No,4.4,Up,3,Fixed defect,No Disease
+47,Female,ATA,112,204,Diabetes,Abnormal,143,No,0.1,Down,0,Noraml blood flow,Disease
+58,Male,ATA,100,248,Diabetes,Normal,122,No,1,Flat,0,Noraml blood flow,Disease
+66,Male,TA,150,226,Diabetes,Abnormal,114,No,2.6,Up,0,Noraml blood flow,Disease
+65,Male,ASY,140,417,Normal,Normal,157,No,0.8,Down,1,Noraml blood flow,Disease
+35,Female,NAP,122,192,Diabetes,Abnormal,174,No,0,Down,0,Noraml blood flow,Disease
+57,Female,NAP,124,261,Diabetes,Abnormal,141,No,0.3,Down,0,reversable defect,No Disease
+29,Female,NAP,130,204,Diabetes,Normal,202,No,0,Down,0,Noraml blood flow,Disease
+66,Female,NAP,160,246,Diabetes,Abnormal,120,Yes,0,Flat,3,Fixed defect,No Disease
+61,Male,ATA,130,330,Diabetes,Normal,169,No,0,Down,0,Noraml blood flow,No Disease
+52,Female,ATA,125,212,Diabetes,Abnormal,168,No,1,Down,2,reversable defect,No Disease
+68,Female,ASY,118,277,Diabetes,Abnormal,151,No,1,Down,1,reversable defect,Disease
+54,Female,ASY,120,258,Diabetes,Normal,147,No,0.4,Flat,0,reversable defect,Disease
+63,Female,ATA,130,330,Normal,Normal,132,Yes,1.8,Down,3,reversable defect,No Disease
+58,Female,ATA,100,234,Diabetes,Abnormal,156,No,0.1,Down,1,reversable defect,No Disease
+60,Female,ATA,130,253,Diabetes,Abnormal,144,Yes,1.4,Down,1,reversable defect,No Disease
+63,Female,ATA,130,254,Diabetes,Normal,147,No,1.4,Flat,1,reversable defect,No Disease
+41,Male,ASY,112,268,Diabetes,Normal,172,Yes,0,Down,0,Noraml blood flow,Disease
+68,Female,ASY,180,274,Normal,Normal,150,Yes,1.6,Flat,0,reversable defect,No Disease
+42,Female,NAP,120,295,Diabetes,Abnormal,162,No,0,Down,0,Noraml blood flow,Disease
+59,Female,ATA,170,326,Diabetes,Normal,140,Yes,3.4,Up,0,reversable defect,No Disease
+59,Female,ATA,164,176,Normal,Normal,90,No,1,Flat,2,Fixed defect,No Disease
+43,Female,ATA,120,177,Diabetes,Normal,120,Yes,2.5,Flat,0,reversable defect,No Disease
+60,Female,ASY,140,185,Diabetes,Normal,155,No,3,Flat,0,Noraml blood flow,No Disease
+63,Male,ATA,150,407,Diabetes,Normal,154,No,4,Flat,3,reversable defect,No Disease
+52,Female,ATA,128,204,Normal,Abnormal,156,Yes,1,Flat,0,Null,No Disease
+58,Female,ATA,125,300,Diabetes,Normal,171,No,0,Down,2,reversable defect,No Disease
+56,Male,ATA,200,288,Normal,Normal,133,Yes,4,Up,2,reversable defect,No Disease
+54,Male,ASY,135,304,Normal,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+58,Female,ASY,105,240,Diabetes,Normal,154,Yes,0.6,Flat,0,reversable defect,Disease
+55,Male,NAP,135,250,Diabetes,Normal,161,No,1.4,Flat,0,Noraml blood flow,Disease
+53,Female,ATA,140,203,Normal,Normal,155,Yes,3.1,Up,0,reversable defect,No Disease
+63,Male,NAP,140,195,Diabetes,Abnormal,179,No,0,Down,2,Noraml blood flow,Disease
+39,Female,ATA,118,219,Diabetes,Abnormal,140,No,1.2,Flat,0,reversable defect,No Disease
+35,Female,ATA,126,282,Diabetes,Normal,156,Yes,0,Down,0,reversable defect,No Disease
+50,Male,ASY,120,219,Diabetes,Abnormal,158,No,1.6,Flat,0,Noraml blood flow,Disease
+67,Female,ASY,152,212,Diabetes,Normal,150,No,0.8,Flat,0,reversable defect,No Disease
+66,Female,ATA,112,212,Diabetes,Normal,132,Yes,0.1,Down,1,Noraml blood flow,No Disease
+35,Female,ATA,126,282,Diabetes,Normal,156,Yes,0,Down,0,reversable defect,No Disease
+41,Female,ASY,130,214,Diabetes,Normal,168,No,2,Flat,0,Noraml blood flow,Disease
+35,Female,ATA,120,198,Diabetes,Abnormal,130,Yes,1.6,Flat,0,reversable defect,No Disease
+71,Male,NAP,160,302,Diabetes,Abnormal,162,No,0.4,Down,2,Noraml blood flow,Disease
+57,Female,ATA,110,201,Diabetes,Abnormal,126,Yes,1.5,Flat,0,Fixed defect,Disease
+51,Female,ASY,94,227,Diabetes,Abnormal,154,Yes,0,Down,1,reversable defect,Disease
+58,Female,ATA,128,216,Diabetes,Normal,131,Yes,2.2,Flat,3,reversable defect,No Disease
+57,Female,ASY,128,229,Diabetes,Normal,150,No,0.4,Flat,1,reversable defect,No Disease
+56,Male,NAP,140,294,Diabetes,Normal,153,No,1.3,Flat,0,Noraml blood flow,Disease
+60,Male,ASY,120,178,Normal,Abnormal,96,No,0,Down,0,Noraml blood flow,Disease
+45,Female,TA,110,264,Diabetes,Abnormal,132,No,1.2,Flat,0,reversable defect,No Disease
+56,Female,NAP,130,221,Diabetes,Normal,163,No,0,Down,0,reversable defect,Disease
+35,Female,ATA,120,198,Diabetes,Abnormal,130,Yes,1.6,Flat,0,reversable defect,No Disease
+45,Male,NAP,112,160,Diabetes,Abnormal,138,No,0,Flat,0,Noraml blood flow,Disease
+66,Male,TA,150,226,Diabetes,Abnormal,114,No,2.6,Up,0,Noraml blood flow,Disease
+51,Female,TA,125,213,Diabetes,Normal,125,Yes,1.4,Down,1,Noraml blood flow,Disease
+70,Female,NAP,156,245,Diabetes,Normal,143,No,0,Down,0,Noraml blood flow,Disease
+55,Male,ATA,128,205,Diabetes,Hyper,130,Yes,2,Flat,1,reversable defect,No Disease
+56,Female,ASY,130,256,Normal,Normal,142,Yes,0.6,Flat,1,Fixed defect,No Disease
+55,Male,NAP,135,250,Diabetes,Normal,161,No,1.4,Flat,0,Noraml blood flow,Disease
+52,Female,ATA,108,233,Normal,Abnormal,147,No,0.1,Down,3,reversable defect,Disease
+64,Female,ASY,140,335,Diabetes,Abnormal,158,No,0,Down,0,Noraml blood flow,No Disease
+45,Female,ATA,115,260,Diabetes,Normal,185,No,0,Down,0,Noraml blood flow,Disease
+67,Male,ASY,152,277,Diabetes,Abnormal,172,No,0,Down,1,Noraml blood flow,Disease
+68,Male,ASY,120,211,Diabetes,Normal,115,No,1.5,Flat,0,Noraml blood flow,Disease
+74,Male,NAP,120,269,Diabetes,Normal,121,Yes,0.2,Down,1,Noraml blood flow,Disease
+60,Male,ATA,150,258,Diabetes,Normal,157,No,2.6,Flat,2,reversable defect,No Disease
+48,Female,ATA,124,274,Diabetes,Normal,166,No,0.5,Flat,0,reversable defect,No Disease
+56,Female,NAP,130,221,Diabetes,Normal,163,No,0,Down,0,reversable defect,Disease
+46,Female,ATA,140,311,Diabetes,Abnormal,120,Yes,1.8,Flat,2,reversable defect,No Disease
+55,Male,NAP,135,250,Diabetes,Normal,161,No,1.4,Flat,0,Noraml blood flow,Disease
+44,Female,NAP,120,220,Diabetes,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+52,Female,ATA,112,230,Diabetes,Abnormal,160,No,0,Down,1,Noraml blood flow,No Disease
+51,Female,ASY,94,227,Diabetes,Abnormal,154,Yes,0,Down,1,reversable defect,Disease
+44,Male,ASY,108,141,Diabetes,Abnormal,175,No,0.6,Flat,0,Noraml blood flow,Disease
+52,Female,ATA,128,204,Normal,Abnormal,156,Yes,1,Flat,0,Null,No Disease
+50,Female,ASY,129,196,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+59,Female,ATA,110,239,Diabetes,Normal,142,Yes,1.2,Flat,1,reversable defect,No Disease
+67,Female,ATA,120,229,Diabetes,Normal,129,Yes,2.6,Flat,2,reversable defect,No Disease
+58,Female,ATA,125,300,Diabetes,Normal,171,No,0,Down,2,reversable defect,No Disease
+52,Female,ATA,128,255,Diabetes,Abnormal,161,Yes,0,Down,1,reversable defect,No Disease
+44,Female,ASY,140,235,Diabetes,Normal,180,No,0,Down,0,Noraml blood flow,Disease
+41,Male,ASY,112,268,Diabetes,Normal,172,Yes,0,Down,0,Noraml blood flow,Disease
+63,Female,ATA,130,330,Normal,Normal,132,Yes,1.8,Down,3,reversable defect,No Disease
+58,Female,NAP,125,220,Diabetes,Abnormal,144,No,0.4,Flat,4,reversable defect,Disease
+60,Male,ASY,102,318,Diabetes,Abnormal,160,No,0,Down,1,Noraml blood flow,Disease
+51,Female,ASY,100,222,Diabetes,Abnormal,143,Yes,1.2,Flat,0,Noraml blood flow,Disease
+64,Female,ASY,140,335,Diabetes,Abnormal,158,No,0,Down,0,Noraml blood flow,No Disease
+60,Female,ATA,117,230,Normal,Abnormal,160,Yes,1.4,Down,2,reversable defect,No Disease
+44,Female,ASY,120,226,Diabetes,Abnormal,169,No,0,Down,0,Noraml blood flow,Disease
+58,Female,NAP,125,220,Diabetes,Abnormal,144,No,0.4,Flat,4,reversable defect,Disease
+55,Female,NAP,130,262,Diabetes,Abnormal,155,No,0,Down,0,Noraml blood flow,Disease
+65,Male,ASY,160,360,Diabetes,Normal,151,No,0.8,Down,0,Noraml blood flow,Disease
+48,Female,NAP,130,245,Diabetes,Normal,180,No,0.2,Flat,0,Noraml blood flow,Disease
+65,Female,ATA,120,177,Diabetes,Abnormal,140,No,0.4,Down,0,reversable defect,Disease
+51,Male,ASY,130,256,Diabetes,Normal,149,No,0.5,Down,0,Noraml blood flow,Disease
+48,Female,ASY,124,255,Normal,Abnormal,175,No,0,Down,2,Noraml blood flow,Disease
+64,Female,ATA,120,246,Diabetes,Normal,96,Yes,2.2,Up,1,Noraml blood flow,No Disease
+66,Female,ATA,160,228,Diabetes,Normal,138,No,2.3,Down,0,Fixed defect,Disease
+46,Male,NAP,105,204,Diabetes,Abnormal,172,No,0,Down,0,Noraml blood flow,Disease
+61,Male,ATA,130,330,Diabetes,Normal,169,No,0,Down,0,Noraml blood flow,No Disease
+57,Female,ATA,150,276,Diabetes,Normal,112,Yes,0.6,Flat,1,Fixed defect,No Disease
+49,Male,ATA,130,269,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+56,Female,NAP,130,221,Diabetes,Normal,163,No,0,Down,0,reversable defect,Disease
+58,Male,TA,150,283,Normal,Normal,162,No,1,Down,0,Noraml blood flow,Disease
+63,Female,ATA,140,187,Diabetes,Normal,144,Yes,4,Down,2,reversable defect,No Disease
+57,Female,ATA,110,335,Diabetes,Abnormal,143,Yes,3,Flat,1,reversable defect,No Disease
+57,Female,ATA,110,335,Diabetes,Abnormal,143,Yes,3,Flat,1,reversable defect,No Disease
+68,Female,ATA,144,193,Normal,Abnormal,141,No,3.4,Flat,2,reversable defect,No Disease
+46,Female,NAP,101,197,Normal,Abnormal,156,No,0,Down,0,reversable defect,Disease
+71,Male,ASY,110,265,Normal,Normal,130,No,0,Down,1,Noraml blood flow,Disease
+41,Female,NAP,135,203,Diabetes,Abnormal,132,No,0,Flat,0,Fixed defect,Disease
+45,Male,ATA,138,236,Diabetes,Normal,152,Yes,0.2,Flat,0,Noraml blood flow,Disease
+62,Male,ATA,150,244,Diabetes,Abnormal,154,Yes,1.4,Flat,0,Noraml blood flow,No Disease
+65,Male,ATA,150,225,Diabetes,Normal,114,No,1,Flat,3,reversable defect,No Disease
+48,Male,ASY,130,275,Diabetes,Abnormal,139,No,0.2,Down,0,Noraml blood flow,Disease
+51,Female,ASY,100,222,Diabetes,Abnormal,143,Yes,1.2,Flat,0,Noraml blood flow,Disease
+61,Male,ATA,145,307,Diabetes,Normal,146,Yes,1,Flat,0,reversable defect,No Disease
+53,Female,ATA,123,282,Diabetes,Abnormal,95,Yes,2,Flat,2,reversable defect,No Disease
+59,Female,TA,134,204,Diabetes,Abnormal,162,No,0.8,Down,2,Noraml blood flow,No Disease
+34,Male,NAP,118,210,Diabetes,Abnormal,192,No,0.7,Down,0,Noraml blood flow,Disease
+44,Female,ATA,120,169,Diabetes,Abnormal,144,Yes,2.8,Up,0,Fixed defect,No Disease
+58,Female,ATA,146,218,Diabetes,Abnormal,105,No,2,Flat,1,reversable defect,No Disease
+64,Male,ATA,130,303,Diabetes,Abnormal,122,No,2,Flat,2,Noraml blood flow,Disease
+56,Female,NAP,120,240,Diabetes,Abnormal,169,No,0,Up,0,Noraml blood flow,Disease
+54,Female,ASY,150,232,Diabetes,Normal,165,No,1.6,Down,0,reversable defect,Disease
+55,Female,ATA,160,289,Diabetes,Normal,145,Yes,0.8,Flat,1,reversable defect,No Disease
+67,Female,ATA,125,254,Normal,Abnormal,163,No,0.2,Flat,2,reversable defect,No Disease
+51,Female,ATA,140,298,Diabetes,Abnormal,122,Yes,4.2,Flat,3,reversable defect,No Disease
+62,Male,ATA,138,294,Normal,Abnormal,106,No,1.9,Flat,3,Noraml blood flow,No Disease
+62,Female,NAP,120,281,Diabetes,Normal,103,No,1.4,Flat,1,reversable defect,No Disease
+54,Female,ATA,110,239,Diabetes,Abnormal,126,Yes,2.8,Flat,1,reversable defect,No Disease
+54,Female,ATA,110,239,Diabetes,Abnormal,126,Yes,2.8,Flat,1,reversable defect,No Disease
+68,Female,ATA,144,193,Normal,Abnormal,141,No,3.4,Flat,2,reversable defect,No Disease
+60,Male,ASY,120,178,Normal,Abnormal,96,No,0,Down,0,Noraml blood flow,Disease
+61,Female,TA,134,234,Diabetes,Abnormal,145,No,2.6,Flat,2,Noraml blood flow,No Disease
+62,Female,NAP,128,208,Normal,Normal,140,No,0,Down,0,Noraml blood flow,Disease
+41,Female,NAP,135,203,Diabetes,Abnormal,132,No,0,Flat,0,Fixed defect,Disease
+65,Male,ATA,150,225,Diabetes,Normal,114,No,1,Flat,3,reversable defect,No Disease
+59,Female,TA,170,288,Diabetes,Normal,159,No,0.2,Flat,0,reversable defect,No Disease
+43,Female,ATA,115,303,Diabetes,Abnormal,181,No,1.2,Flat,0,Noraml blood flow,Disease
+67,Female,ATA,120,229,Diabetes,Normal,129,Yes,2.6,Flat,2,reversable defect,No Disease
+63,Female,TA,145,233,Normal,Normal,150,No,2.3,Up,0,Fixed defect,Disease
+63,Male,ATA,124,197,Diabetes,Abnormal,136,Yes,0,Flat,0,Noraml blood flow,No Disease
+52,Female,ATA,112,230,Diabetes,Abnormal,160,No,0,Down,1,Noraml blood flow,No Disease
+58,Male,ATA,130,197,Diabetes,Abnormal,131,No,0.6,Flat,0,Noraml blood flow,Disease
+53,Female,ATA,142,226,Diabetes,Normal,111,Yes,0,Down,0,reversable defect,Disease
+57,Female,ATA,150,276,Diabetes,Normal,112,Yes,0.6,Flat,1,Fixed defect,No Disease
+44,Female,ASY,130,233,Diabetes,Abnormal,179,Yes,0.4,Down,0,Noraml blood flow,Disease
+51,Female,ASY,94,227,Diabetes,Abnormal,154,Yes,0,Down,1,reversable defect,Disease
+54,Male,ASY,110,214,Diabetes,Abnormal,158,No,1.6,Flat,0,Noraml blood flow,Disease
+40,Female,ATA,110,167,Diabetes,Normal,114,Yes,2,Flat,0,reversable defect,No Disease
+57,Female,NAP,124,261,Diabetes,Abnormal,141,No,0.3,Down,0,reversable defect,No Disease
+62,Male,ATA,140,268,Diabetes,Normal,160,No,3.6,Up,2,Noraml blood flow,No Disease
+53,Female,ATA,140,203,Normal,Normal,155,Yes,3.1,Up,0,reversable defect,No Disease
+62,Female,NAP,128,208,Normal,Normal,140,No,0,Down,0,Noraml blood flow,Disease
+58,Female,ASY,105,240,Diabetes,Normal,154,Yes,0.6,Flat,0,reversable defect,Disease
+70,Female,NAP,156,245,Diabetes,Normal,143,No,0,Down,0,Noraml blood flow,Disease
+45,Female,ATA,115,260,Diabetes,Normal,185,No,0,Down,0,Noraml blood flow,Disease
+42,Female,TA,148,244,Diabetes,Normal,178,No,0.8,Down,2,Noraml blood flow,Disease
+58,Male,ATA,170,225,Normal,Normal,146,Yes,2.8,Flat,2,Fixed defect,No Disease
+61,Female,ATA,140,207,Diabetes,Normal,138,Yes,1.9,Down,1,reversable defect,No Disease
+62,Male,ATA,140,268,Diabetes,Normal,160,No,3.6,Up,2,Noraml blood flow,No Disease
+60,Female,ATA,130,253,Diabetes,Abnormal,144,Yes,1.4,Down,1,reversable defect,No Disease
+54,Female,ATA,140,239,Diabetes,Abnormal,160,No,1.2,Down,0,Noraml blood flow,Disease
+61,Female,ATA,138,166,Diabetes,Normal,125,Yes,3.6,Flat,1,Noraml blood flow,No Disease
+63,Male,ASY,135,252,Diabetes,Normal,172,No,0,Down,0,Noraml blood flow,Disease
+42,Female,ASY,130,180,Diabetes,Abnormal,150,No,0,Down,0,Noraml blood flow,Disease
+57,Female,ASY,128,229,Diabetes,Normal,150,No,0.4,Flat,1,reversable defect,No Disease
+44,Female,ASY,130,233,Diabetes,Abnormal,179,Yes,0.4,Down,0,Noraml blood flow,Disease
+54,Female,ATA,124,266,Diabetes,Normal,109,Yes,2.2,Flat,1,reversable defect,No Disease
+51,Female,ASY,100,222,Diabetes,Abnormal,143,Yes,1.2,Flat,0,Noraml blood flow,Disease
+58,Female,NAP,125,220,Diabetes,Abnormal,144,No,0.4,Flat,4,reversable defect,Disease
+68,Female,ASY,118,277,Diabetes,Abnormal,151,No,1,Down,1,reversable defect,Disease
+55,Female,ATA,140,217,Diabetes,Abnormal,111,Yes,5.6,Up,0,reversable defect,No Disease
+42,Female,ATA,136,315,Diabetes,Abnormal,125,Yes,1.8,Flat,0,Fixed defect,No Disease
+49,Female,ASY,118,149,Diabetes,Normal,126,No,0.8,Down,3,Noraml blood flow,No Disease
+53,Male,ATA,138,234,Diabetes,Normal,160,No,0,Down,0,Noraml blood flow,Disease
+52,Female,ASY,172,199,Normal,Abnormal,162,No,0.5,Down,0,reversable defect,Disease
+51,Female,TA,125,213,Diabetes,Normal,125,Yes,1.4,Down,1,Noraml blood flow,Disease
+51,Female,ATA,140,261,Diabetes,Normal,186,Yes,0,Down,0,Noraml blood flow,Disease
+70,Female,ATA,145,174,Diabetes,Abnormal,125,Yes,2.6,Up,0,reversable defect,No Disease
+35,Male,ATA,138,183,Diabetes,Abnormal,182,No,1.4,Down,0,Noraml blood flow,Disease
+58,Female,ASY,112,230,Diabetes,Normal,165,No,2.5,Flat,1,reversable defect,No Disease
+59,Female,TA,160,273,Diabetes,Normal,125,No,0,Down,0,Noraml blood flow,No Disease
+60,Female,ATA,140,293,Diabetes,Normal,170,No,1.2,Flat,2,reversable defect,No Disease
+56,Female,ATA,132,184,Diabetes,Normal,105,Yes,2.1,Flat,1,Fixed defect,No Disease
+35,Male,ATA,138,183,Diabetes,Abnormal,182,No,1.4,Down,0,Noraml blood flow,Disease
+61,Female,ATA,138,166,Diabetes,Normal,125,Yes,3.6,Flat,1,Noraml blood flow,No Disease
+58,Male,TA,150,283,Normal,Normal,162,No,1,Down,0,Noraml blood flow,Disease
+52,Female,ATA,128,255,Diabetes,Abnormal,161,Yes,0,Down,1,reversable defect,No Disease
+58,Female,NAP,120,284,Diabetes,Normal,160,No,1.8,Flat,0,Noraml blood flow,No Disease
+37,Female,ASY,130,250,Diabetes,Abnormal,187,No,3.5,Up,0,Noraml blood flow,Disease
+52,Female,ATA,128,255,Diabetes,Abnormal,161,Yes,0,Down,1,reversable defect,No Disease
+67,Female,ATA,120,229,Diabetes,Normal,129,Yes,2.6,Flat,2,reversable defect,No Disease
+65,Female,TA,138,282,Normal,Normal,174,No,1.4,Flat,1,Noraml blood flow,No Disease
+46,Female,NAP,101,197,Normal,Abnormal,156,No,0,Down,0,reversable defect,Disease
+68,Male,ASY,120,211,Diabetes,Normal,115,No,1.5,Flat,0,Noraml blood flow,Disease
+43,Female,ATA,115,303,Diabetes,Abnormal,181,No,1.2,Flat,0,Noraml blood flow,Disease
+68,Male,ASY,120,211,Diabetes,Normal,115,No,1.5,Flat,0,Noraml blood flow,Disease
+51,Female,ATA,140,299,Diabetes,Abnormal,173,Yes,1.6,Down,0,reversable defect,No Disease
+52,Female,ATA,112,230,Diabetes,Abnormal,160,No,0,Down,1,Noraml blood flow,No Disease
+64,Female,ASY,140,335,Diabetes,Abnormal,158,No,0,Down,0,Noraml blood flow,No Disease
+59,Female,TA,170,288,Diabetes,Normal,159,No,0.2,Flat,0,reversable defect,No Disease
+52,Female,ATA,125,212,Diabetes,Abnormal,168,No,1,Down,2,reversable defect,No Disease
+59,Female,TA,160,273,Diabetes,Normal,125,No,0,Down,0,Noraml blood flow,No Disease
+60,Male,TA,150,240,Diabetes,Abnormal,171,No,0.9,Down,0,Noraml blood flow,Disease
+41,Female,ASY,112,250,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+41,Female,NAP,110,235,Diabetes,Abnormal,153,No,0,Down,0,Noraml blood flow,Disease
+56,Female,NAP,120,240,Diabetes,Abnormal,169,No,0,Up,0,Noraml blood flow,Disease
+56,Female,NAP,120,236,Diabetes,Abnormal,178,No,0.8,Down,0,Noraml blood flow,Disease
+48,Male,ASY,130,275,Diabetes,Abnormal,139,No,0.2,Down,0,Noraml blood flow,Disease
+39,Female,ASY,140,321,Diabetes,Normal,182,No,0,Down,0,Noraml blood flow,Disease
+64,Female,TA,170,227,Diabetes,Normal,155,No,0.6,Flat,0,reversable defect,Disease
+57,Female,ATA,140,192,Diabetes,Abnormal,148,No,0.4,Flat,0,Fixed defect,Disease
+59,Female,TA,160,273,Diabetes,Normal,125,No,0,Down,0,Noraml blood flow,No Disease
+60,Female,ATA,130,206,Diabetes,Normal,132,Yes,2.4,Flat,2,reversable defect,No Disease
+61,Female,ATA,140,207,Diabetes,Normal,138,Yes,1.9,Down,1,reversable defect,No Disease
+43,Male,ASY,122,213,Diabetes,Abnormal,165,No,0.2,Flat,0,Noraml blood flow,Disease
+54,Female,ATA,120,188,Diabetes,Abnormal,113,No,1.4,Flat,1,reversable defect,No Disease
+59,Female,ATA,138,271,Diabetes,Normal,182,No,0,Down,0,Noraml blood flow,Disease
+57,Female,ATA,132,207,Diabetes,Abnormal,168,Yes,0,Down,0,reversable defect,Disease
+57,Female,NAP,154,232,Diabetes,Normal,164,No,0,Down,1,Noraml blood flow,No Disease
+57,Female,ATA,130,131,Diabetes,Abnormal,115,Yes,1.2,Flat,1,reversable defect,No Disease
+48,Female,ATA,124,274,Diabetes,Normal,166,No,0.5,Flat,0,reversable defect,No Disease
+70,Female,ATA,145,174,Diabetes,Abnormal,125,Yes,2.6,Up,0,reversable defect,No Disease
+57,Female,ATA,165,289,Normal,Normal,124,No,1,Flat,3,reversable defect,No Disease
+61,Female,ATA,120,260,Diabetes,Abnormal,140,Yes,3.6,Flat,1,reversable defect,No Disease
+57,Female,ATA,110,201,Diabetes,Abnormal,126,Yes,1.5,Flat,0,Fixed defect,Disease
+60,Male,ATA,150,258,Diabetes,Normal,157,No,2.6,Flat,2,reversable defect,No Disease
+63,Male,ATA,150,407,Diabetes,Normal,154,No,4,Flat,3,reversable defect,No Disease
+55,Male,ATA,128,205,Diabetes,Hyper,130,Yes,2,Flat,1,reversable defect,No Disease
+64,Male,ATA,180,325,Diabetes,Abnormal,154,Yes,0,Down,0,Noraml blood flow,Disease
+54,Female,ATA,110,239,Diabetes,Abnormal,126,Yes,2.8,Flat,1,reversable defect,No Disease
+52,Female,ATA,128,204,Normal,Abnormal,156,Yes,1,Flat,0,Null,No Disease
+51,Female,ATA,140,299,Diabetes,Abnormal,173,Yes,1.6,Down,0,reversable defect,No Disease
+62,Male,ASY,130,263,Diabetes,Abnormal,97,No,1.2,Flat,1,reversable defect,No Disease
+59,Female,TA,178,270,Diabetes,Normal,145,No,4.2,Up,0,reversable defect,Disease
+52,Female,NAP,134,201,Diabetes,Abnormal,158,No,0.8,Down,1,Noraml blood flow,Disease
+42,Male,ATA,102,265,Diabetes,Normal,122,No,0.6,Flat,0,Noraml blood flow,Disease
+59,Female,ATA,135,234,Diabetes,Abnormal,161,No,0.5,Flat,0,reversable defect,Disease
+61,Female,TA,134,234,Diabetes,Abnormal,145,No,2.6,Flat,2,Noraml blood flow,No Disease
+42,Male,ATA,102,265,Diabetes,Normal,122,No,0.6,Flat,0,Noraml blood flow,Disease
+62,Male,ATA,140,268,Diabetes,Normal,160,No,3.6,Up,2,Noraml blood flow,No Disease
+59,Female,ASY,126,218,Normal,Abnormal,134,No,2.2,Flat,1,Fixed defect,No Disease
+55,Female,NAP,130,262,Diabetes,Abnormal,155,No,0,Down,0,Noraml blood flow,Disease
+64,Female,ATA,120,246,Diabetes,Normal,96,Yes,2.2,Up,1,Noraml blood flow,No Disease
+42,Female,ATA,140,226,Diabetes,Abnormal,178,No,0,Down,0,Noraml blood flow,Disease
+50,Male,NAP,120,244,Diabetes,Abnormal,162,No,1.1,Down,0,Noraml blood flow,Disease
+62,Female,ATA,120,267,Diabetes,Abnormal,99,Yes,1.8,Flat,2,reversable defect,No Disease
+50,Female,ATA,144,200,Diabetes,Normal,126,Yes,0.9,Flat,0,reversable defect,No Disease
+50,Female,ASY,140,233,Diabetes,Abnormal,163,No,0.6,Flat,1,reversable defect,No Disease
+58,Male,NAP,136,319,Normal,Normal,152,No,0,Down,2,Noraml blood flow,No Disease
+35,Female,ATA,120,198,Diabetes,Abnormal,130,Yes,1.6,Flat,0,reversable defect,No Disease
+45,Female,ATA,104,208,Diabetes,Normal,148,Yes,3,Flat,0,Noraml blood flow,Disease
+66,Female,ATA,112,212,Diabetes,Normal,132,Yes,0.1,Down,1,Noraml blood flow,No Disease
+46,Female,ATA,120,249,Diabetes,Normal,144,No,0.8,Down,0,reversable defect,No Disease
+65,Female,ATA,135,254,Diabetes,Normal,127,No,2.8,Flat,1,reversable defect,No Disease
+47,Female,ASY,130,253,Diabetes,Abnormal,179,No,0,Down,0,Noraml blood flow,Disease
+59,Female,TA,134,204,Diabetes,Abnormal,162,No,0.8,Down,2,Noraml blood flow,No Disease
+38,Female,TA,120,231,Diabetes,Abnormal,182,Yes,3.8,Flat,0,reversable defect,No Disease
+39,Female,ATA,118,219,Diabetes,Abnormal,140,No,1.2,Flat,0,reversable defect,No Disease
+58,Female,ATA,146,218,Diabetes,Abnormal,105,No,2,Flat,1,reversable defect,No Disease
+44,Female,NAP,120,263,Diabetes,Abnormal,173,No,0,Down,0,reversable defect,Disease
+54,Female,ATA,140,239,Diabetes,Abnormal,160,No,1.2,Down,0,Noraml blood flow,Disease
+61,Male,ATA,130,330,Diabetes,Normal,169,No,0,Down,0,Noraml blood flow,No Disease
+57,Female,ATA,130,131,Diabetes,Abnormal,115,Yes,1.2,Flat,1,reversable defect,No Disease
+54,Female,ATA,110,206,Diabetes,Normal,108,Yes,0,Flat,1,Noraml blood flow,No Disease
+42,Female,ASY,120,240,Normal,Abnormal,194,No,0.8,Up,0,reversable defect,Disease
+54,Female,ATA,124,266,Diabetes,Normal,109,Yes,2.2,Flat,1,reversable defect,No Disease
+60,Female,ATA,130,206,Diabetes,Normal,132,Yes,2.4,Flat,2,reversable defect,No Disease
+65,Female,ATA,135,254,Diabetes,Normal,127,No,2.8,Flat,1,reversable defect,No Disease
+40,Female,ATA,152,223,Diabetes,Abnormal,181,No,0,Down,0,reversable defect,No Disease
+51,Male,ASY,140,308,Diabetes,Normal,142,No,1.5,Down,1,Noraml blood flow,Disease
+38,Female,TA,120,231,Diabetes,Abnormal,182,Yes,3.8,Flat,0,reversable defect,No Disease
+42,Female,ASY,130,180,Diabetes,Abnormal,150,No,0,Down,0,Noraml blood flow,Disease
+56,Female,NAP,120,240,Diabetes,Abnormal,169,No,0,Up,0,Noraml blood flow,Disease
+43,Female,ASY,130,315,Diabetes,Abnormal,162,No,1.9,Down,1,Noraml blood flow,Disease
+64,Female,ASY,140,335,Diabetes,Abnormal,158,No,0,Down,0,Noraml blood flow,No Disease
+53,Female,ATA,142,226,Diabetes,Normal,111,Yes,0,Down,0,reversable defect,Disease
+49,Male,NAP,134,271,Diabetes,Abnormal,162,No,0,Flat,0,Noraml blood flow,Disease
+57,Male,ATA,140,241,Diabetes,Abnormal,123,Yes,0.2,Flat,0,reversable defect,No Disease
+52,Male,ASY,136,196,Diabetes,Normal,169,No,0.1,Flat,0,Noraml blood flow,Disease
+69,Male,TA,140,239,Diabetes,Abnormal,151,No,1.8,Down,2,Noraml blood flow,Disease
+65,Female,ATA,120,177,Diabetes,Abnormal,140,No,0.4,Down,0,reversable defect,Disease
+66,Male,ATA,178,228,Normal,Abnormal,165,Yes,1,Flat,2,reversable defect,No Disease
+56,Female,TA,120,193,Diabetes,Normal,162,No,1.9,Flat,0,reversable defect,Disease
+67,Male,ASY,152,277,Diabetes,Abnormal,172,No,0,Down,1,Noraml blood flow,Disease
+54,Male,ASY,160,201,Diabetes,Abnormal,163,No,0,Down,1,Noraml blood flow,Disease
+70,Female,ATA,145,174,Diabetes,Abnormal,125,Yes,2.6,Up,0,reversable defect,No Disease
+57,Female,ATA,132,207,Diabetes,Abnormal,168,Yes,0,Down,0,reversable defect,Disease
+67,Female,ATA,160,286,Diabetes,Normal,108,Yes,1.5,Flat,3,Noraml blood flow,No Disease
+62,Male,ASY,130,263,Diabetes,Abnormal,97,No,1.2,Flat,1,reversable defect,No Disease
+54,Male,ASY,135,304,Normal,Abnormal,170,No,0,Down,0,Noraml blood flow,Disease
+45,Male,ATA,138,236,Diabetes,Normal,152,Yes,0.2,Flat,0,Noraml blood flow,Disease
+53,Male,ATA,130,264,Diabetes,Normal,143,No,0.4,Flat,0,Noraml blood flow,Disease
+62,Female,ASY,130,231,Diabetes,Abnormal,146,No,1.8,Flat,3,reversable defect,Disease
+49,Male,ATA,130,269,Diabetes,Abnormal,163,No,0,Down,0,Noraml blood flow,Disease
+50,Female,ASY,140,233,Diabetes,Abnormal,163,No,0.6,Flat,1,reversable defect,No Disease
+65,Male,ASY,140,417,Normal,Normal,157,No,0.8,Down,1,Noraml blood flow,Disease
+69,Male,TA,140,239,Diabetes,Abnormal,151,No,1.8,Down,2,Noraml blood flow,Disease
+52,Male,ASY,136,196,Diabetes,Normal,169,No,0.1,Flat,0,Noraml blood flow,Disease
+58,Male,ATA,100,248,Diabetes,Normal,122,No,1,Flat,0,Noraml blood flow,Disease
+52,Female,ATA,108,233,Normal,Abnormal,147,No,0.1,Down,3,reversable defect,Disease
+57,Male,ATA,140,241,Diabetes,Abnormal,123,Yes,0.2,Flat,0,reversable defect,No Disease
+44,Male,ASY,108,141,Diabetes,Abnormal,175,No,0.6,Flat,0,Noraml blood flow,Disease
+76,Male,ASY,140,197,Diabetes,Hyper,116,No,1.1,Flat,0,Noraml blood flow,Disease
+58,Female,ATA,128,259,Diabetes,Normal,130,Yes,3,Flat,2,reversable defect,No Disease
+60,Male,ASY,120,178,Normal,Abnormal,96,No,0,Down,0,Noraml blood flow,Disease
+53,Female,ATA,140,203,Normal,Normal,155,Yes,3.1,Up,0,reversable defect,No Disease
+52,Female,NAP,120,325,Diabetes,Abnormal,172,No,0.2,Down,0,Noraml blood flow,Disease
+38,Female,ASY,138,175,Diabetes,Abnormal,173,No,0,Down,4,Noraml blood flow,Disease
+52,Female,ASY,172,199,Normal,Abnormal,162,No,0.5,Down,0,reversable defect,Disease
+52,Female,TA,118,186,Diabetes,Normal,190,No,0,Flat,0,Fixed defect,Disease
+51,Female,ASY,125,245,Normal,Normal,166,No,2.4,Flat,0,Noraml blood flow,Disease
+43,Female,ATA,110,211,Diabetes,Abnormal,161,No,0,Down,0,reversable defect,Disease
+39,Female,ATA,118,219,Diabetes,Abnormal,140,No,1.2,Flat,0,reversable defect,No Disease
+63,Male,ATA,108,269,Diabetes,Abnormal,169,Yes,1.8,Flat,2,Noraml blood flow,No Disease
+52,Female,NAP,128,205,Normal,Abnormal,184,No,0,Down,0,Noraml blood flow,Disease
+44,Female,ATA,110,197,Diabetes,Normal,177,No,0,Down,1,Noraml blood flow,No Disease
+45,Female,ATA,142,309,Diabetes,Normal,147,Yes,0,Flat,3,reversable defect,No Disease
+57,Female,ATA,140,192,Diabetes,Abnormal,148,No,0.4,Flat,0,Fixed defect,Disease
+39,Female,ATA,118,219,Diabetes,Abnormal,140,No,1.2,Flat,0,reversable defect,No Disease
+67,Male,ATA,106,223,Diabetes,Abnormal,142,No,0.3,Down,2,Noraml blood flow,Disease
+64,Female,ATA,128,263,Diabetes,Abnormal,105,Yes,0.2,Flat,1,reversable defect,Disease
+59,Female,ATA,135,234,Diabetes,Abnormal,161,No,0.5,Flat,0,reversable defect,Disease
+62,Female,ASY,130,231,Diabetes,Abnormal,146,No,1.8,Flat,3,reversable defect,Disease
+55,Male,ATA,180,327,Diabetes,Hyper,117,Yes,3.4,Flat,0,Noraml blood flow,No Disease
+57,Female,NAP,154,232,Diabetes,Normal,164,No,0,Down,1,Noraml blood flow,No Disease
+60,Female,ATA,140,293,Diabetes,Normal,170,No,1.2,Flat,2,reversable defect,No Disease
+71,Male,NAP,160,302,Diabetes,Abnormal,162,No,0.4,Down,2,Noraml blood flow,Disease
+56,Female,NAP,120,236,Diabetes,Abnormal,178,No,0.8,Down,0,Noraml blood flow,Disease
+60,Female,ATA,117,230,Normal,Abnormal,160,Yes,1.4,Down,2,reversable defect,No Disease
+50,Male,ATA,110,254,Diabetes,Normal,159,No,0,Down,0,Noraml blood flow,Disease
+43,Female,ATA,132,247,Normal,Normal,143,Yes,0.1,Flat,4,reversable defect,No Disease
+59,Female,ATA,110,239,Diabetes,Normal,142,Yes,1.2,Flat,1,reversable defect,No Disease
+44,Female,NAP,120,263,Diabetes,Abnormal,173,No,0,Down,0,reversable defect,Disease
+56,Male,ATA,134,409,Diabetes,Normal,150,Yes,1.9,Flat,2,reversable defect,No Disease
+54,Female,ATA,120,188,Diabetes,Abnormal,113,No,1.4,Flat,1,reversable defect,No Disease
+42,Female,ATA,136,315,Diabetes,Abnormal,125,Yes,1.8,Flat,0,Fixed defect,No Disease
+67,Female,ATA,125,254,Normal,Abnormal,163,No,0.2,Flat,2,reversable defect,No Disease
+64,Female,ATA,145,212,Diabetes,Normal,132,No,2,Flat,2,Fixed defect,No Disease
+42,Female,ATA,140,226,Diabetes,Abnormal,178,No,0,Down,0,Noraml blood flow,Disease
+66,Female,ATA,112,212,Diabetes,Normal,132,Yes,0.1,Down,1,Noraml blood flow,No Disease
+52,Female,ATA,108,233,Normal,Abnormal,147,No,0.1,Down,3,reversable defect,Disease
+51,Male,ASY,140,308,Diabetes,Normal,142,No,1.5,Down,1,Noraml blood flow,Disease
+55,Male,ATA,128,205,Diabetes,Hyper,130,Yes,2,Flat,1,reversable defect,No Disease
+58,Female,ASY,140,211,Normal,Normal,165,No,0,Down,0,Noraml blood flow,Disease
+56,Female,TA,120,193,Diabetes,Normal,162,No,1.9,Flat,0,reversable defect,Disease
+42,Female,NAP,120,295,Diabetes,Abnormal,162,No,0,Down,0,Noraml blood flow,Disease
+40,Female,ATA,152,223,Diabetes,Abnormal,181,No,0,Down,0,reversable defect,No Disease
+51,Female,ATA,140,299,Diabetes,Abnormal,173,Yes,1.6,Down,0,reversable defect,No Disease
+45,Female,NAP,128,308,Diabetes,Normal,170,No,0,Down,0,Noraml blood flow,Disease
+48,Female,NAP,110,229,Diabetes,Abnormal,168,No,1,Up,0,reversable defect,No Disease
+58,Female,ATA,114,318,Diabetes,Hyper,140,No,4.4,Up,3,Fixed defect,No Disease
+44,Male,ASY,108,141,Diabetes,Abnormal,175,No,0.6,Flat,0,Noraml blood flow,Disease
+58,Female,ATA,128,216,Diabetes,Normal,131,Yes,2.2,Flat,3,reversable defect,No Disease
+65,Female,TA,138,282,Normal,Normal,174,No,1.4,Flat,1,Noraml blood flow,No Disease
+53,Female,ATA,123,282,Diabetes,Abnormal,95,Yes,2,Flat,2,reversable defect,No Disease
+41,Female,ATA,110,172,Diabetes,Normal,158,No,0,Down,0,reversable defect,No Disease
+47,Female,ATA,112,204,Diabetes,Abnormal,143,No,0.1,Down,0,Noraml blood flow,Disease
+59,Female,NAP,140,221,Diabetes,Abnormal,164,Yes,0,Down,0,Noraml blood flow,Disease
+60,Female,ATA,125,258,Diabetes,Normal,141,Yes,2.8,Flat,1,reversable defect,No Disease
+47,Female,ATA,110,275,Diabetes,Normal,118,Yes,1,Flat,1,Noraml blood flow,No Disease
+50,Male,ATA,110,254,Diabetes,Normal,159,No,0,Down,0,Noraml blood flow,Disease
+54,Female,ATA,120,188,Diabetes,Abnormal,113,No,1.4,Flat,1,reversable defect,No Disease
